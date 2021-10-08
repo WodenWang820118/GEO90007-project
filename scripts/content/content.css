@@ -4,7 +4,7 @@ body {
 }
 
 .introduction {
-  padding: 0 10%;
+  padding: 0 15%;
 }
 
 * {
@@ -15,7 +15,7 @@ body {
 }
 
 .sidebar {
-  position: relative;
+  position: absolute;
   left: -250px;
   width: 250px;
   height:100%;
@@ -75,7 +75,7 @@ label #btn {
   transition: all 0.5s;
 }
 
-#label #cancel {
+label #cancel {
   z-index: 11;
   left: -195px;
   top:17px;
@@ -97,8 +97,4 @@ label #btn {
 
 #check:checked ~ label #cancel {
   left: 195px;
-}
-
-section {
-  background: url(bg.jpg) no-repeat;
 }
