@@ -11,10 +11,10 @@ intro.innerHTML +=
   <header>Filters</header>
   <ul>
     <li><a><i class="fas fa-coffee"></i></a></li>
-    <li><a>item</a></li>
-    <li><a>item</a></li>
-    <li><a>item</a></li>
-    <li><a>item</a></li>
+    <li><a href="#">item</a></li>
+    <li><a href="#">item</a></li>
+    <li><a href="#">item</a></li>
+    <li><a href="#">item</a></li>
   </ul>
 </div>
 
