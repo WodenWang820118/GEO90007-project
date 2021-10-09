@@ -26,26 +26,130 @@ intro.innerHTML +=
   Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus nec maximus nisi. Vivamus sit amet ipsum tortor. Donec convallis, dolor at consectetur blandit, magna lacus bibendum dolor, porttitor elementum augue tellus sit amet turpis. Suspendisse non tortor in nisi scelerisque congue ac ut nisl. Ut sit amet commodo quam. Pellentesque et tortor ut est posuere volutpat. Donec gravida fermentum purus, vitae fermentum leo pulvinar eget. Pellentesque ut erat lorem. Aenean pulvinar nulla augue, eget pellentesque diam tempor nec. Fusce non ex dui. Sed tellus purus, mollis ac rutrum sit amet, posuere sit amet sapien. Quisque sagittis at felis vitae ornare. Etiam varius luctus leo. Vivamus eu venenatis quam. Vivamus consectetur sem a justo posuere pretium.
   </p>
 </div>
+
+<style scoped>
+body {
+  font-family: 'Roboto Slab', sans-serif;
+  background: #c7cce2b0;
+}
+
+.introduction {
+  padding: 0 15%;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-decoration: none;
+}
+
+.sidebar {
+  position: absolute;
+  left: -250px;
+  width: 250px;
+  height:100%;
+  background: #042331;
+  transition: all 0.5s ease;
+}
+
+.sidebar header {
+  font-size: 22px;
+  color: white;
+  text-align: center;
+  line-height: 70px;
+  background: #063146;
+  user-select: none;
+}
+
+.sidebar ul a {
+  display: block;
+  height: 100%;
+  width: 100%;
+  line-height: 65px;
+  font-size: 20px;
+  color: white;
+  padding-left: 40px;
+  box-sizing: border-box;
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+  border-bottom: 1px solid black;
+  transition: 0.4s;
+}
+
+ul li:hover a {
+  padding-left: 50px;
+}
+
+.sidebar ul a i {
+  margin-right: 16px;
+  color: white;
+}
+
+#check {
+  display: none;
+
+}
+
+label #btn, label #cancel {
+  position: relative;
+  cursor: pointer;
+  background: #042331;
+  border-radius: 3px;
+}
+
+label #btn {
+  left: 40px;
+  top: 25px;
+  font-size: 35px;
+  color: white;
+  padding: 6px 12px;
+  transition: all 0.5s;
+}
+
+label #cancel {
+  z-index: 11;
+  left: -195px;
+  top:17px;
+  font-size: 30px;
+  color: #0a5275;
+  padding: 4px 9px;
+  transition: all 0.5s ease;
+}
+
+#check:checked ~ .sidebar {
+  left: 0;
+}
+
+#check:checked ~ label #btn {
+  left: 250px;
+  opacity: 0;
+  pointer-events: none;
+}
+
+#check:checked ~ label #cancel {
+  left: 195px;
+}
+</style>
 `
 
-// load up external CSS file
-var link = document.createElement('link');
+// // load up external CSS file
+// var link = document.createElement('link');
 
-// set properties of link tag
-// the CSS path must be the relative path of the root directory
-link.href = '/scripts/content/content.css';
-link.rel = 'stylesheet';
-link.type = 'text/css';
+// // set properties of link tag
+// // the CSS path must be the relative path of the root directory
+// link.href = '/scripts/content/content.css';
+// link.rel = 'stylesheet';
+// link.type = 'text/css';
 
-// Loaded successfully
-// link.onload = function() {
-// 	console.log('success');
-// };
+// // Loaded successfully
+// // link.onload = function() {
+// // 	console.log('success');
+// // };
 
-// Loading failed
-// link.onerror = function() {
-// 	console.log('error');
-// };
+// // Loading failed
+// // link.onerror = function() {
+// // 	console.log('error');
+// // };
 
-// append link element to html
-document.getElementById("main").appendChild(link);
+// // append link element to html
+// document.getElementById("main").appendChild(link);
