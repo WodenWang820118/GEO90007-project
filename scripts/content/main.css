@@ -1,0 +1,14 @@
+body {
+  font-family: 'Roboto Slab', sans-serif;
+  background: #c7cce2b0;
+}
+
+.introduction {
+  padding: 0;
+}
+
+@media only screen and (max-width: 600px) {
+  .introduction {
+    padding: 0;
+  }
+}

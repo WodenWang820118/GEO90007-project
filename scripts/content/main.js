@@ -1,23 +1,6 @@
 const intro = document.getElementById('main')
 intro.innerHTML +=
 `
-<input type="checkbox" id="check"></input>
-<label for="check">
-  <i class="fas fa-compass" id="btn"></i>
-  <i class="fas fa-times" id="cancel"></i>
-</label>
-
-<div class="sidebar">
-  <header>Filters</header>
-  <ul>
-    <li><a><i class="fas fa-coffee"></i></a></li>
-    <li><a href="#">item</a></li>
-    <li><a href="#">item</a></li>
-    <li><a href="#">item</a></li>
-    <li><a href="#">item</a></li>
-  </ul>
-</div>
-
 <div class="introduction">
   <p>Travel the way well-planned</p>
   <p>
@@ -33,19 +16,9 @@ var link = document.createElement('link');
 
 // set properties of link tag
 // the CSS path must be the relative path of the root directory
-link.href = 'scripts/content/content.css';
+link.href = 'scripts/content/main.css';
 link.rel = 'stylesheet';
 link.type = 'text/css';
-
-// Loaded successfully
-// link.onload = function() {
-// 	console.log('success');
-// };
-
-// Loading failed
-// link.onerror = function() {
-// 	console.log('error');
-// };
 
 // append link element to html
 document.getElementById("main").appendChild(link);

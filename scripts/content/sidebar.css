@@ -1,26 +1,13 @@
-body {
-  font-family: 'Roboto Slab', sans-serif;
-  background: #c7cce2b0;
-}
-
-.introduction {
-  padding: 0 15%;
-}
-
-* {
-  margin: 0;
-  padding: 0;
+.sidebar {
   list-style: none;
   text-decoration: none;
-}
-
-.sidebar {
   position: absolute;
   left: -250px;
   width: 250px;
   height:100%;
   background: #042331;
   transition: all 0.5s ease;
+  z-index: 111;
 }
 
 .sidebar header {
@@ -68,7 +55,7 @@ label #btn, label #cancel {
 }
 
 label #btn {
-  left: 40px;
+  left: 11px;
   top: 25px;
   font-size: 35px;
   color: white;
@@ -98,4 +85,15 @@ label #cancel {
 
 #check:checked ~ label #cancel {
   left: 195px;
+}
+
+@media only screen and (min-width: 600px) {
+  label #btn {
+    left: 90px;
+    top: 25px;
+    font-size: 35px;
+    color: white;
+    padding: 6px 12px;
+    transition: all 0.5s;
+  }
 }
