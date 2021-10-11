@@ -89,7 +89,7 @@ label #cancel {
 
 @media only screen and (min-width: 600px) {
   label #btn {
-    left: 90px;
+    left: 0px;
     top: 25px;
     font-size: 35px;
     color: white;
