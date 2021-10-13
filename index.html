@@ -34,12 +34,22 @@
     <script src="scripts/header/header.js"></script>
   </div>
 
-  <div id="sidebar">
+  <!-- <div id="sidebar">
     <script src="scripts/content/sidebar.js"></script>
-  </div>
+  </div> -->
   
-  <div id="map">
-    <script src="scripts/mapbox/map.js"></script>
+  <!-- mapbox container styles can be only modified in html inline styles -->
+  <div class="mapbox-container" style="position: relative;">
+    <div id="map"
+      style="width:100%;
+            height:600px;
+            display: inline-block;
+            position: relative;">
+      <script src="scripts/mapbox/map.js"></script>
+    </div>
+    <div class="map-overlay" id="legend"></div>
+    <div class="map-overlay" id="title"></div>
+    <script src="scripts/mapbox/legend.js"></script>
   </div>
 
   <!-- Bootstrap 5 with two columns -->
