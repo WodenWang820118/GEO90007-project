@@ -50,7 +50,7 @@ map.on('load', e => {
     map.getCanvas().style.cursor = '';
   });
 
-
+  // TODO: the click event doesn't work
   // to add the pop-up effect when clicking on one of the murder location on map
   map.on('click', 'cafes-restaurants_info', e => {
     var date = e.features[0].properties.reported_date.toString();
