@@ -3,12 +3,14 @@ header.innerHTML +=
 `
 <div class="header">
   <img id="header-pic" src="assets/flinder_railway.jpg" alt="header-image" />
-  <div class="header-text">
-    <div>
-    <p>City of Melbourne</p>
-    <p>Cafes and restaurants</p>
+  <div class="header-text-block">
+    <div class="header-text">
+      <p>Sweet queen-city of the golden south</p>
+      <p>You have known nothing though</p>
+      <p>Find the truth by your own</p>
+      <p>through the finger type what you thought</p>
+      <p>and thus you will find the soul.</p>
     </div>
-    <div>A guide to local tourists </div>
   </div>
 </div>
 `

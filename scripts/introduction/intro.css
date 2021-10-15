@@ -1,0 +1,40 @@
+.text-container {
+  bottom:0;
+  width: 630px;
+  height: 482px;
+  padding: 129px 39px 143px;
+  background-color: #cbc6c6;
+}
+
+.text {
+  width: 722px;
+  height: 210px;
+  font-family: BethEllen;
+  font-size: 60px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.17;
+  letter-spacing: normal;
+  text-align: left;
+  color: #988686;
+}
+
+#intro {
+  position: absolute;
+  z-index: 100;
+  bottom: 0;
+  left: 107px;
+}
+
+.text-col1 {
+  font-family: BethEllen;
+  font-size: 60px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.17;
+  letter-spacing: normal;
+  text-align: left;
+  color: #524f4f;
+}
