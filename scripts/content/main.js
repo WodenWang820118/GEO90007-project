@@ -1,5 +1,5 @@
-const intro = document.getElementById('main')
-intro.innerHTML +=
+const content = document.getElementById('main')
+content.innerHTML +=
 `
 <div class="introduction">
   <p>Travel the way well-planned</p>
