@@ -55,18 +55,17 @@ map.on('load', e => {
   
   // to add the pop-up effect when clicking on one of the murder location on map
   map.on('click', 'cafes-restaurants_info', e => {
-    var date = e.features[0].properties.reported_date.toString();
-    var year = date.slice(0, 4);
-    var month = MonthNameMapping[date.slice(4, 6)];
-    var day = date.slice(6, 8);
+    // console.log(e.features[0])
+    let feature = e.features[0]
+    console.log(feature.properties)
+    const lng = feature.properties.longitude
+    const lat = feature.properties.latitude
+    const coordinates = [lng, lat]
+    const industry = feature.properties.Industry
 
     new mapboxgl.Popup()
-      .setLngLat(e.lngLat)
-      .setHTML('<p style="font-weight: bold;">' + 'Killed: ' + month + ' ' + day + ', ' + year + 
-      '</p><p><em>' + "Address " + e.features[0].properties.Street + '</em></p>')
-      .addTo(map);
+    .setLngLat(coordinates)
+    .setHTML(industry)
+    .addTo(map)
   });
-
-    //add control to the map
-
 });
