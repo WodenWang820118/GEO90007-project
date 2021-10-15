@@ -1,6 +1,6 @@
 .text-container {
   bottom:0;
-  width: 680px;
+  width: 780px;
   height: 482px;
   padding: 129px 39px 143px;
   background-color: #cbc6c6;
@@ -9,7 +9,7 @@
 .text {
   width: 722px;
   height: 210px;
-  font-family: BethEllen;
+  font-family: 'Beth Ellen';
   font-size: 60px;
   font-weight: normal;
   font-stretch: normal;
@@ -28,7 +28,7 @@
 }
 
 .text-col1 {
-  font-family: BethEllen;
+  font-family: 'Beth Ellen';
   font-size: 60px;
   font-weight: normal;
   font-stretch: normal;
