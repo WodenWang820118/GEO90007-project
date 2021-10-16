@@ -14,7 +14,6 @@ Dumpling ADA,205-207 Lygon Street CARLTON 3053,Carlton,Cafes and Restaurants,144
 Il Cantuccio Restaurant,209 Lygon Street CARLTON 3053,Carlton,Cafes and Restaurants,144.9666,-37.80042,100,20
 Papa Gino's Pizza Restaurant,219-221 Lygon Street CARLTON 3053,Carlton,Cafes and Restaurants,144.96672,-37.80019,100,40
 Cafe Corretto,225-229 Lygon Street CARLTON 3053,Carlton,Cafes and Restaurants,144.96674,-37.80005,60,55
-Original Lolly Store,239 Lygon Street CARLTON 3053,Carlton,Other Specialised Food Retailing,144.96678,-37.79983,0,0
 New Zealand Natural Ice Cream,241 Lygon Street CARLTON 3053,Carlton,Takeaway Food Services,144.96679,-37.79978,0,16
 La Parisienne Pates,253 Lygon Street CARLTON 3053,Carlton,Cafes and Restaurants,144.96683,-37.79954,38,12
 University Cafe,255-257 Lygon Street CARLTON 3053,Carlton,Cafes and Restaurants,144.96684,-37.79948,120,56
@@ -46,7 +45,6 @@ Market Lane Coffee,176-178 Faraday Street CARLTON 3053,Carlton,Cafes and Restaur
 The Carlton Wine Room,172-174 Faraday Street CARLTON 3053,Carlton,Cafes and Restaurants,144.96859,-37.79858,126,20
 Trotters Bistro,398-400 Lygon Street CARLTON 3053,Carlton,Cafes and Restaurants,144.96776,-37.79763,125,24
 Brunetti Carlton,368-386 Lygon Street CARLTON 3053,Carlton,Cafes and Restaurants,144.96815,-37.79804,300,100
-Cinema Nova,368-386 Lygon Street CARLTON 3053,Carlton,Motion Picture Exhibition,144.96815,-37.79804,0,0
 Seasalt Fish & Sushi Bar,364 Lygon Street CARLTON 3053,Carlton,Cafes and Restaurants,144.96764,-37.79828,43,17
 Sea Saltfish & Sushi Bar,362 Lygon Street CARLTON 3053,Carlton,Cafes and Restaurants,144.96763,-37.79833,43,17
 Gemma Simple Italian,183 Elgin Street CARLTON 3053,Carlton,Cafes and Restaurants,144.96838,-37.79753,60,10
@@ -57,14 +55,12 @@ Il Vicolo,48-50 Grattan Street CARLTON 3053,Carlton,Cafes and Restaurants,144.96
 Grill'd Healthy Burgers,350 Lygon Street CARLTON 3053,Carlton,Cafes and Restaurants,144.96753,-37.79887,120,32
 Boost Juice,344 Lygon Street CARLTON 3053,Carlton,Takeaway Food Services,144.9675,-37.799,3,4
 Lavenzzi Gelateria,334-336 Lygon Street CARLTON 3053,Carlton,Takeaway Food Services,144.96749,-37.79916,4,16
-DOC Delicatessen,330 Lygon Street CARLTON 3053,Carlton,Other Specialised Food Retailing,144.96748,-37.79926,0,0
 DOC Espresso,326-328 Lygon Street CARLTON 3053,Carlton,Cafes and Restaurants,144.96747,-37.79932,50,60
 Donnini's,320 Lygon Street CARLTON 3053,Carlton,Cafes and Restaurants,144.9675,-37.79954,70,24
 Copperwood,316-318 Lygon Street CARLTON 3053,Carlton,Cafes and Restaurants,144.96759,-37.79963,160,33
 St. Charly,306-308 Lygon Street CARLTON 3053,Carlton,Cafes and Restaurants,144.96742,-37.79979,64,32
 Carlton Yacht Club Bar,298 Lygon Street CARLTON 3053,Carlton,"Pubs, Taverns and Bars",144.96738,-37.79999,0,40
 East Imperial,319-323 Rathdowne Street CARLTON 3053,Carlton,Cafes and Restaurants,144.96988,-37.79918,100,0
-Soap Bar,63 Elgin Street CARLTON 3053,Carlton,Laundry and Dry-Cleaning Services,144.97242,-37.7979,0,0
 Abla's Restaurant,109 Elgin Street CARLTON 3053,Carlton,Cafes and Restaurants,144.97103,-37.79781,75,0
 Paris Go Bistro,114-116 Rathdowne Street CARLTON 3053,Carlton,Cafes and Restaurants,144.97088,-37.79696,50,4
 Carlton Wok,154-156 Rathdowne Street CARLTON 3053,Carlton,Takeaway Food Services,144.97107,-37.79586,24,0
@@ -88,11 +84,9 @@ Haymarket Place,212 Berkeley Street CARLTON 3053,Carlton,Cafes and Restaurants,1
 Baretto Cafe,153-163 Barry Street CARLTON 3053,Carlton,Cafes and Restaurants,144.95928,-37.80023,120,15
 Cafe  Commercio,156-180 Berkeley Street CARLTON 3053,Carlton,Cafes and Restaurants,144.95882,-37.80156,115,20
 The Dumplings & Tea Co,196-198 Pelham Street CARLTON 3053,Carlton,Cafes and Restaurants,144.95923,-37.80186,48,24
-The Graduate Union of the University of Melbourne,197-235 Bouverie Street CARLTON 3053,Carlton,Accommodation,144.96162,-37.80104,0,0
 Animal Orchestra,163 Grattan Street CARLTON 3053,Carlton,Cafes and Restaurants,144.96342,-37.8006,48,88
 Mantra Lounge,167 Grattan Street CARLTON 3053,Carlton,Cafes and Restaurants,144.9633,-37.80058,32,34
 Lincoln Bakery Cafe,22-40 Lincoln Square North CARLTON 3053,Carlton,Cafes and Restaurants,144.96273,-37.80134,0,36
-Rydges on Swanston,701-713 Swanston Street CARLTON 3053,Carlton,Accommodation,144.96338,-37.80142,0,0
 Cafe Fillings,723-741 Swanston Street CARLTON 3053,Carlton,Cafes and Restaurants,144.96339,-37.80087,34,22
 Lanzhou Beef Noodle Bar,743-751 Swanston Street CARLTON 3053,Carlton,Cafes and Restaurants,144.96364,-37.80062,65,40
 KFC Carlton,743-751 Swanston Street CARLTON 3053,Carlton,Cafes and Restaurants,144.96364,-37.80062,22,15
@@ -203,7 +197,6 @@ Woodside Green,87 Cardigan Street CARLTON 3053,Carlton,Takeaway Food Services,14
 Kitchen 520,514-520 Swanston Street CARLTON 3053,Carlton,Cafes and Restaurants,144.96353,-37.80484,38,0
 The Big Mama,462-468 Swanston Street CARLTON 3053,Carlton,Cafes and Restaurants,144.96333,-37.80601,48,6
 Cafe Crema,470-496 Swanston Street CARLTON 3053,Carlton,Cafes and Restaurants,144.96354,-37.80559,30,0
-Arrow On Swanston,470-496 Swanston Street CARLTON 3053,Carlton,Accommodation,144.96354,-37.80559,0,0
 Coffee On Cardigan,23-37 Cardigan Street CARLTON 3053,Carlton,Cafes and Restaurants,144.96396,-37.80593,20,68
 Tam Tam,1-7 Lygon Street CARLTON 3053,Carlton,Cafes and Restaurants,144.96564,-37.80674,40,0
 The Curtin,27-31 Lygon Street CARLTON 3053,Carlton,"Pubs, Taverns and Bars",144.9657,-37.8062,71,16
@@ -224,7 +217,6 @@ Red Rooster,85-161 Spencer Street DOCKLANDS 3008,Docklands,Takeaway Food Service
 In A Rush Espresso,85-161 Spencer Street DOCKLANDS 3008,Docklands,Cafes and Restaurants,144.9522,-37.81843,40,0
 Grains Galore Bakery & Kebabs,85-161 Spencer Street DOCKLANDS 3008,Docklands,Takeaway Food Services,144.9522,-37.81843,12,0
 Southern Asian Cuisine,85-161 Spencer Street DOCKLANDS 3008,Docklands,Cafes and Restaurants,144.9522,-37.81843,43,0
-Network Public Bar & Pizzeria,85-161 Spencer Street DOCKLANDS 3008,Docklands,"Funeral, Crematorium and Cemetery Services",144.9522,-37.81843,0,0
 Gaslight Project,85-161 Spencer Street DOCKLANDS 3008,Docklands,Cafes and Restaurants,144.9522,-37.81843,30,0
 Velluto,85-161 Spencer Street DOCKLANDS 3008,Docklands,Cafes and Restaurants,144.9522,-37.81843,20,0
 Spanish Doughnuts,85-161 Spencer Street DOCKLANDS 3008,Docklands,Takeaway Food Services,144.9522,-37.81843,20,0
@@ -238,7 +230,6 @@ Starbucks,163-261 Spencer Street DOCKLANDS 3008,Docklands,Cafes and Restaurants,
 Pasquale,163-261 Spencer Street DOCKLANDS 3008,Docklands,Cafes and Restaurants,144.95056,-37.8145,16,0
 Schnitz,163-261 Spencer Street DOCKLANDS 3008,Docklands,Cafes and Restaurants,144.95056,-37.8145,65,16
 Genki Express,163-261 Spencer Street DOCKLANDS 3008,Docklands,Takeaway Food Services,144.95056,-37.8145,12,0
-Michel's Pattiserie,163-261 Spencer Street DOCKLANDS 3008,Docklands,Bakery Product Manufacturing (Non-factory based),144.95056,-37.8145,0,0
 Degani @ Southern Cross Station,163-261 Spencer Street DOCKLANDS 3008,Docklands,Cafes and Restaurants,144.95056,-37.8145,45,0
 Subway,163-261 Spencer Street DOCKLANDS 3008,Docklands,Takeaway Food Services,144.95056,-37.8145,30,12
 Hungry Jacks,163-261 Spencer Street DOCKLANDS 3008,Docklands,Cafes and Restaurants,144.95056,-37.8145,70,0
@@ -251,7 +242,6 @@ Cafenatics,990 La Trobe Street DOCKLANDS 3008,Docklands,Cafes and Restaurants,14
 Locker Room Cafe,122-148 Harbour Esplanade DOCKLANDS 3008,Docklands,Cafes and Restaurants,144.94747,-37.81649,12,20
 Arena View Restaurant And Cafe,122-148 Harbour Esplanade DOCKLANDS 3008,Docklands,Cafes and Restaurants,144.94747,-37.81649,2640,16
 The Medallion Club,122-148 Harbour Esplanade DOCKLANDS 3008,Docklands,Cafes and Restaurants,144.94747,-37.81649,950,0
-Peppers Docklands Hotel,677-681 La Trobe Street DOCKLANDS 3008,Docklands,Accommodation,144.94749,-37.81489,0,0
 Bao's  Restaurant,673-675 La Trobe Street DOCKLANDS 3008,Docklands,Cafes and Restaurants,144.94749,-37.81489,34,0
 Yummy Hut,673-675 La Trobe Street DOCKLANDS 3008,Docklands,Cafes and Restaurants,144.94749,-37.81489,32,0
 Khaza Ghar,673-675 La Trobe Street DOCKLANDS 3008,Docklands,Cafes and Restaurants,144.94749,-37.81489,19,0
@@ -294,7 +284,6 @@ Asuka Sushi,715-727 Bourke Street DOCKLANDS 3008,Docklands,Cafes and Restaurants
 Whoop Dee Doo Cafe,715-727 Bourke Street DOCKLANDS 3008,Docklands,Cafes and Restaurants,144.95024,-37.81866,112,0
 Hangar,715-727 Bourke Street DOCKLANDS 3008,Docklands,Cafes and Restaurants,144.95024,-37.81866,44,42
 Cafe Saporo @ Docklands,715-727 Bourke Street DOCKLANDS 3008,Docklands,Cafes and Restaurants,144.95024,-37.81866,60,26
-Travelodge Hotel Melbourne Docklands,715-727 Bourke Street DOCKLANDS 3008,Docklands,Accommodation,144.95024,-37.81866,0,0
 Gokotta Kaffe,8-18 McCrae Street DOCKLANDS 3008,Docklands,Cafes and Restaurants,144.95076,-37.82151,36,0
 Little Bang Espresso,720-750 Collins Street DOCKLANDS 3008,Docklands,Takeaway Food Services,144.94934,-37.82,26,0
 Shinsei Rice & Sushi Bar,720-750 Collins Street DOCKLANDS 3008,Docklands,Cafes and Restaurants,144.94934,-37.82,72,0
@@ -318,7 +307,6 @@ Rhumba's At Nab,788-812 Bourke Street DOCKLANDS 3008,Docklands,Cafes and Restaur
 Tataki Noodles & Dumplings,788-812 Bourke Street DOCKLANDS 3008,Docklands,Cafes and Restaurants,144.94508,-37.81885,25,64
 Black Cod,788-812 Bourke Street DOCKLANDS 3008,Docklands,Cafes and Restaurants,144.94508,-37.81885,80,45
 Banc Cafe,788-812 Bourke Street DOCKLANDS 3008,Docklands,Cafes and Restaurants,144.94508,-37.81885,80,0
-The Harbour Kitchen,788-812 Bourke Street DOCKLANDS 3008,Docklands,Catering Services,144.94508,-37.81885,0,0
 Whitelion/Wheelly Good Coffee,107-117 Victoria Harbour Promenade DOCKLANDS 3008,Docklands,Cafes and Restaurants,144.94052,-37.82003,30,0
 Subway Vic Harbour,834-846 Bourke Street DOCKLANDS 3008,Docklands,Takeaway Food Services,144.94312,-37.81977,10,10
 Pita Pit Docklands,834-846 Bourke Street DOCKLANDS 3008,Docklands,Takeaway Food Services,144.94312,-37.81977,10,12
@@ -362,7 +350,6 @@ Le-Nguyen Pho & Bakery Cafe,818-838 Collins Street DOCKLANDS 3008,Docklands,Cafe
 Humble Heroes,818-838 Collins Street DOCKLANDS 3008,Docklands,Cafes and Restaurants,144.94502,-37.82101,26,0
 Hot Kebab,2-14 Waterside Place DOCKLANDS 3008,Docklands,Takeaway Food Services,144.94218,-37.81981,6,16
 Saluministi,1-13 Waterside Place DOCKLANDS 3008,Docklands,Cafes and Restaurants,144.94139,-37.82006,4,12
-Wawa Chocolatier,1-13 Waterside Place DOCKLANDS 3008,Docklands,Other Specialised Food Retailing,144.94139,-37.82006,0,0
 Banoi,807-811 Bourke Street DOCKLANDS 3008,Docklands,Cafes and Restaurants,144.94506,-37.8197,67,8
 Cafernatics Forte,807-811 Bourke Street DOCKLANDS 3008,Docklands,Cafes and Restaurants,144.94506,-37.8197,14,31
 Little Bean Dockside,840-850 Collins Street DOCKLANDS 3008,Docklands,Cafes and Restaurants,144.94454,-37.82095,75,0
@@ -378,7 +365,6 @@ B Club Cafe,37-43 Caravel Lane DOCKLANDS 3008,Docklands,Cafes and Restaurants,14
 Bopha Devi Docklands,37-43 Caravel Lane DOCKLANDS 3008,Docklands,Cafes and Restaurants,144.94067,-37.81492,70,0
 Steakhouse 66,37-43 Caravel Lane DOCKLANDS 3008,Docklands,Cafes and Restaurants,144.94067,-37.81492,100,50
 Berth Restaurant,45 Newquay Promenade DOCKLANDS 3008,Docklands,Cafes and Restaurants,144.94184,-37.81515,190,80
-All Smiles,55 Newquay Promenade DOCKLANDS 3008,Docklands,Catering Services,144.94142,-37.81535,0,0
 Cargo Cafe & Bar,55 Newquay Promenade DOCKLANDS 3008,Docklands,Cafes and Restaurants,144.94142,-37.81535,80,50
 Fish Bar,25 Newquay Promenade DOCKLANDS 3008,Docklands,Cafes and Restaurants,144.94275,-37.81473,0,60
 The Conder Restaurant,2-16 Newquay Promenade DOCKLANDS 3008,Docklands,Cafes and Restaurants,144.9437,-37.81381,130,0
@@ -386,10 +372,8 @@ Docklands Lotus Restaurant,2-16 Newquay Promenade DOCKLANDS 3008,Docklands,Cafes
 Aussie Steak N Burger,2-16 Newquay Promenade DOCKLANDS 3008,Docklands,Cafes and Restaurants,144.9437,-37.81381,120,0
 Newquay Buffet and Bar,2-16 Newquay Promenade DOCKLANDS 3008,Docklands,Cafes and Restaurants,144.9437,-37.81381,130,68
 Waterfront Seafood Hot Pot,425-427 Docklands Drive DOCKLANDS 3008,Docklands,Cafes and Restaurants,144.93921,-37.81504,93,16
-Waterfront Venues Melbourne,425-427 Docklands Drive DOCKLANDS 3008,Docklands,Other Administrative Services n.e.c.,144.93921,-37.81504,0,0
 Almina,439-441 Docklands Drive DOCKLANDS 3008,Docklands,Cafes and Restaurants,144.93921,-37.81504,220,0
 The Coffee Shed Cafe,439-441 Docklands Drive DOCKLANDS 3008,Docklands,Takeaway Food Services,144.93921,-37.81504,20,0
-Four Points By Sheraton Melbourne Docklands,6-22 Pearl River Road DOCKLANDS 3008,Docklands,Accommodation,144.93829,-37.81546,0,0
 Docklands Pizzaria,397-407 Docklands Drive DOCKLANDS 3008,Docklands,Cafes and Restaurants,144.9402,-37.81429,30,0
 Aree Thai,397-407 Docklands Drive DOCKLANDS 3008,Docklands,Cafes and Restaurants,144.9402,-37.81429,50,4
 Replay cafe,397-407 Docklands Drive DOCKLANDS 3008,Docklands,Cafes and Restaurants,144.9402,-37.81429,32,3
@@ -412,7 +396,6 @@ Sea on Quay,40-66 Siddeley Street DOCKLANDS 3008,Docklands,Cafes and Restaurants
 Zahra Jabriye,40-66 Siddeley Street DOCKLANDS 3008,Docklands,Cafes and Restaurants,144.95247,-37.82287,24,24
 Bababoi,40-66 Siddeley Street DOCKLANDS 3008,Docklands,Cafes and Restaurants,144.95247,-37.82287,28,16
 Pud Thai Vs Pho,40-66 Siddeley Street DOCKLANDS 3008,Docklands,Cafes and Restaurants,144.95247,-37.82287,32,22
-Crown Plaza,1-5 Spencer Street DOCKLANDS 3008,Docklands,Accommodation,144.95501,-37.82267,0,0
 The Wharf Hotel,18-38 Siddeley Street DOCKLANDS 3008,Docklands,"Pubs, Taverns and Bars",144.95354,-37.82257,164,139
 Byblos Bar & Restaurant,18-38 Siddeley Street DOCKLANDS 3008,Docklands,Cafes and Restaurants,144.95354,-37.82257,220,53
 Yarra Dragon,18-38 Siddeley Street DOCKLANDS 3008,Docklands,Cafes and Restaurants,144.95354,-37.82257,20,0
@@ -423,13 +406,10 @@ Baraonda,18-38 Siddeley Street DOCKLANDS 3008,Docklands,Takeaway Food Services,1
 Degani Bakery Cafe,18-38 Siddeley Street DOCKLANDS 3008,Docklands,Cafes and Restaurants,144.95354,-37.82257,34,40
 Hooks @ The Yarra,50-56 Lorimer Street DOCKLANDS 3008,Docklands,Cafes and Restaurants,144.94748,-37.82483,60,60
 Sassone By The Riverside,58-70 Lorimer Street DOCKLANDS 3008,Docklands,Cafes and Restaurants,144.94644,-37.82486,60,36
-Urban Hub,1-13 Point Park Crescent DOCKLANDS 3008,Docklands,Supermarket and Grocery Stores,144.94122,-37.82356,0,0
 Pizze Societe,1-13 Point Park Crescent DOCKLANDS 3008,Docklands,Takeaway Food Services,144.94122,-37.82356,12,16
 Jasmin 1 Melbourne,84-90 Lorimer Street DOCKLANDS 3008,Docklands,Cafes and Restaurants,144.9432,-37.8243,80,38
 The Espressonist,92-102 Lorimer Street DOCKLANDS 3008,Docklands,Cafes and Restaurants,144.9432,-37.8243,24,24
 Mad Duck Cafe,84-90 Lorimer Street DOCKLANDS 3008,Docklands,Cafes and Restaurants,144.9432,-37.8243,35,27
-The Catholic Leadship Centre,576-594 Victoria Parade EAST MELBOURNE 3002,East Melbourne,Religious Services,144.99056,-37.81058,0,0
-East Melbourne General Store,53 Hotham Street EAST MELBOURNE 3002,East Melbourne,Supermarket and Grocery Stores,144.98871,-37.81482,0,0
 George Street Cafe,63-65 George Street EAST MELBOURNE 3002,East Melbourne,Cafes and Restaurants,144.98818,-37.81576,35,24
 The Tippier & Co,56-70 Wellington Parade EAST MELBOURNE 3002,East Melbourne,"Pubs, Taverns and Bars",144.98825,-37.81639,100,0
 Espresso Extraction,132-142 Wellington Parade EAST MELBOURNE 3002,East Melbourne,Takeaway Food Services,144.98559,-37.81619,20,6
@@ -440,7 +420,6 @@ Nikko Sushi Noodle,80 Wellington Parade EAST MELBOURNE 3002,East Melbourne,Takea
 Geppetto Trattoria,78A Wellington Parade EAST MELBOURNE 3002,East Melbourne,Cafes and Restaurants,144.98743,-37.81636,40,6
 Hard Pressed,76 Wellington Parade EAST MELBOURNE 3002,East Melbourne,Cafes and Restaurants,144.98755,-37.81638,46,6
 Jolimont Cafe,74 Wellington Parade EAST MELBOURNE 3002,East Melbourne,Cafes and Restaurants,144.98763,-37.81639,34,8
-Comfort Hotel East Melbourne,84-90 Albert Street EAST MELBOURNE 3002,East Melbourne,Accommodation,144.98818,-37.81047,0,0
 Square & Compass,214-222 Clarendon Street EAST MELBOURNE 3002,East Melbourne,Cafes and Restaurants,144.98412,-37.80978,64,9
 Gourmet Pizza Bar,162 Albert Street EAST MELBOURNE 3002,East Melbourne,Cafes and Restaurants,144.98562,-37.81005,50,40
 Grocery Bar East Melbourne,162 Albert Street EAST MELBOURNE 3002,East Melbourne,Cafes and Restaurants,144.98562,-37.81005,46,30
@@ -448,8 +427,6 @@ Kiwi Tribeca Fish Burger Bar,158 Albert Street EAST MELBOURNE 3002,East Melbourn
 Freeo's,162-198 Clarendon Street EAST MELBOURNE 3002,East Melbourne,Cafes and Restaurants,144.98419,-37.81108,58,0
 Zouki Cafe,137-161 Grey Street EAST MELBOURNE 3002,East Melbourne,Cafes and Restaurants,144.9841,-37.81228,68,0
 Grandpa Giuseppe,126-158 Clarendon Street EAST MELBOURNE 3002,East Melbourne,Cafes and Restaurants,144.9841,-37.81228,250,0
-Magnolia Court Boutique Hotel,95-101 Powlett Street EAST MELBOURNE 3002,East Melbourne,Accommodation,144.9853,-37.81337,0,0
-Hotel Pullman Melbourne On The Park,178-226 Wellington Parade EAST MELBOURNE 3002,East Melbourne,Accommodation,144.9835,-37.81582,0,0
 Da Bruno Ristorante Pizza,170-176 Wellington Parade EAST MELBOURNE 3002,East Melbourne,Cafes and Restaurants,144.9843,-37.81584,72,0
 Two Fat Indians,162-168 Wellington Parade EAST MELBOURNE 3002,East Melbourne,Cafes and Restaurants,144.98451,-37.81594,60,0
 My Sushi Japanese Cafe,1-9 Powlett Street EAST MELBOURNE 3002,East Melbourne,Cafes and Restaurants,144.98483,-37.81609,22,6
@@ -473,9 +450,7 @@ Strangers Corridor,160 Spring Street EAST MELBOURNE 3002,East Melbourne,Cafes an
 Zouki on the Park,2 St Andrews Place EAST MELBOURNE 3002,East Melbourne,Cafes and Restaurants,144.97721,-37.8115,60,20
 Mr Tod.,2-12 Parliament Place EAST MELBOURNE 3002,East Melbourne,Takeaway Food Services,144.97575,-37.81162,0,10
 Mr Tod,2-12 Parliament Place EAST MELBOURNE 3002,East Melbourne,Cafes and Restaurants,144.97575,-37.81162,70,47
-Park Hyatt Melbourne,33-61 Cathedral Place EAST MELBOURNE 3002,East Melbourne,Accommodation,144.97651,-37.81131,0,0
 Treasury Cafe,1 MacArthur Street EAST MELBOURNE 3002,East Melbourne,Cafes and Restaurants,144.97561,-37.81282,100,80
-Mantra On Jolimont / Boundary Line Bar,133-143 Jolimont Road EAST MELBOURNE 3002,East Melbourne,Accommodation,144.97828,-37.81795,0,0
 Mugs Alley,239-293 Wellington Parade South EAST MELBOURNE 3002,East Melbourne,Cafes and Restaurants,144.97588,-37.81643,42,16
 Aggies Cafe Bar Restaurant,61-71 Agnes Street EAST MELBOURNE 3002,East Melbourne,Cafes and Restaurants,144.97998,-37.81681,41,9
 Spotless Services,120 Brunton Avenue EAST MELBOURNE 3002,East Melbourne,Cafes and Restaurants,144.98316,-37.82,3240,175
@@ -510,7 +485,6 @@ Heart Baker Bun Mee,241-243 Flinders Lane MELBOURNE 3000,Melbourne (CBD),Takeawa
 Dukes Coffee Roasters,247-251 Flinders Lane MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96617,-37.81699,18,0
 The Journal Canteen,253-265 Flinders Lane MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.9659,-37.81706,60,35
 Cafe Andiamo,253-265 Flinders Lane MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.9659,-37.81706,44,68
-The Organic Food & Wine Deli,253-265 Flinders Lane MELBOURNE 3000,Melbourne (CBD),Other Specialised Food Retailing,144.9659,-37.81706,0,0
 Mock Turtle Degraves,253-265 Flinders Lane MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.9659,-37.81706,17,12
 Xpressomondo,267-275 Flinders Lane MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96548,-37.81711,22,18
 Degraves Espresso,267-275 Flinders Lane MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96548,-37.81711,31,35
@@ -523,10 +497,8 @@ Platform 270,270-272 Flinders Street MELBOURNE 3000,Melbourne (CBD),Cafes and Re
 Yarra Sushi,256-268 Flinders Street MELBOURNE 3000,Melbourne (CBD),Takeaway Food Services,144.96563,-37.81761,6,0
 Il Tempo 2 Pasta,256-268 Flinders Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96563,-37.81761,32,14
 Spanish Doughnuts El Churro Cafe,256-268 Flinders Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96563,-37.81761,28,8
-United Backpackers,250-254 Flinders Street MELBOURNE 3000,Melbourne (CBD),Accommodation,144.966,-37.81752,0,0
 Metro Burgers,250-254 Flinders Street MELBOURNE 3000,Melbourne (CBD),Takeaway Food Services,144.966,-37.81752,24,0
 II Tempo Bar,250-254 Flinders Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.966,-37.81752,50,30
-Little Cupcakes,250-254 Flinders Street MELBOURNE 3000,Melbourne (CBD),Bakery Product Manufacturing (Non-factory based),144.966,-37.81752,13,16
 Flora Indian Restaurant & Cafe,238-242 Flinders Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96636,-37.81736,140,0
 Young & Jacksons,1-7 Swanston Street MELBOURNE 3000,Melbourne (CBD),"Pubs, Taverns and Bars",144.96702,-37.81736,120,0
 Hungry Jack's Pty Ltd,15-19 Swanston Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants, , ,277,0
@@ -534,7 +506,6 @@ Cathedral Coffee,31-41 Swanston Street MELBOURNE 3000,Melbourne (CBD),Takeaway F
 Swanston Halal Food Centre,31-41 Swanston Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.9667,-37.81674,35,0
 Kisume Pty Ltd,175-177 Flinders Lane MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96868,-37.81618,150,0
 Ezard,187 Flinders Lane MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96838,-37.81636,68,0
-The Adelphi Hotel,187 Flinders Lane MELBOURNE 3000,Melbourne (CBD),Accommodation,144.96838,-37.81636,0,0
 Om Nom,187 Flinders Lane MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96838,-37.81636,40,0
 Wheelly Good Coffee,194-196 Flinders Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96814,-37.81674,40,0
 Movida Next Door,164-170 Flinders Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96909,-37.81671,30,0
@@ -550,7 +521,6 @@ Cafe Mesh,351-357 Collins Street MELBOURNE 3000,Melbourne (CBD),Takeaway Food Se
 Crema Espresso @ 357,351-357 Collins Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96279,-37.81729,42,0
 Cafenatics 367,359-373 Collins Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96244,-37.81728,65,15
 Falcon 367,359-373 Collins Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96244,-37.81728,52,0
-Breadtop,55-57 Elizabeth Street MELBOURNE 3000,Melbourne (CBD),Bakery Product Manufacturing (Non-factory based),144.96413,-37.81697,0,0
 Shuji Sushi,40-52 Queen Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96219,-37.81759,50,2
 Midtown Cafe & Catering,303-317 Collins Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96382,-37.81663,34,17
 Souk Kitchen & Bar,319-325 Collins Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96366,-37.81693,130,0
@@ -625,14 +595,11 @@ Hopetoun Tea Rooms,280-292 Collins Street MELBOURNE 3000,Melbourne (CBD),Cafes a
 The Charles Dickens Tavern,280-292 Collins Street MELBOURNE 3000,Melbourne (CBD),"Pubs, Taverns and Bars",144.96435,-37.81553,120,0
 Burger Project St. Collins Lane,258-274 Collins Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96489,-37.81538,80,0
 Royal St Collins,258-274 Collins Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96489,-37.81538,48,0
-Novotel Melbourne On Collins,258-274 Collins Street MELBOURNE 3000,Melbourne (CBD),Accommodation,144.96489,-37.81538,0,0
 Caffe e Torta Espresso Bar,258-274 Collins Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96489,-37.81538,16,0
 Think Asia,258-274 Collins Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96489,-37.81538,56,0
 Papadam,258-274 Collins Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96489,-37.81538,44,0
 70 Grams Pizza Coffee Kitchen,258-274 Collins Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96489,-37.81538,48,0
 Haberdasher Cafe,258-274 Collins Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96489,-37.81538,38,0
-Dymocks,234-250 Collins Street MELBOURNE 3000,Melbourne (CBD),Newspaper and Book Retailing,144.96565,-37.81542,0,0
-Mag Nation Pty Ltd,88 Elizabeth Street MELBOURNE 3000,Melbourne (CBD),Newspaper and Book Retailing,144.96424,-37.81585,0,0
 Hudsons Elizabeth Street,84-86 Elizabeth Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96419,-37.81591,31,8
 Polepole Bar,267 Little Collins Street MELBOURNE 3000,Melbourne (CBD),"Pubs, Taverns and Bars",144.9656,-37.81483,70,0
 The Alley Edition,281-283 Little Collins Street MELBOURNE 3000,Melbourne (CBD),Takeaway Food Services,144.96523,-37.81507,6,0
@@ -653,7 +620,6 @@ Verandah Cafe,170-174 Collins Street MELBOURNE 3000,Melbourne (CBD),Takeaway Foo
 The George on Collins,162-168 Collins Street MELBOURNE 3000,Melbourne (CBD),"Pubs, Taverns and Bars",144.96785,-37.8145,150,0
 Meatmaiden,162-168 Collins Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96785,-37.8145,100,0
 Alice's Thai Restaurant,209-221 Little Collins Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96708,-37.81446,100,0
-The Victoria Hotel Melbourne,209-221 Little Collins Street MELBOURNE 3000,Melbourne (CBD),Accommodation,144.96708,-37.81446,0,0
 In a Rush 150 Collins,150-154 Collins Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96818,-37.81418,41,0
 Gold Drops - Coffee & Tea,150-154 Collins Street MELBOURNE 3000,Melbourne (CBD),Takeaway Food Services,144.96818,-37.81418,8,0
 Arbory Bar and Eatery,207-361 Flinders Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96583,-37.81869,0,367
@@ -677,8 +643,6 @@ Ghislaine,309-325 Bourke Street MELBOURNE 3000,Melbourne (CBD),Takeaway Food Ser
 Grasshoppers Feast/Grab a Yabby,309-325 Bourke Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96453,-37.81446,40,16
 Riva Cafe Bar,309-325 Bourke Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96453,-37.81446,46,26
 Sushi Monger,309-325 Bourke Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96453,-37.81446,13,12
-Causeway Inn On The Mall,327-329 Bourke Street MELBOURNE 3000,Melbourne (CBD),Accommodation,144.96416,-37.81432,0,0
-Koko Black,331-339 Bourke Street MELBOURNE 3000,Melbourne (CBD),Other Specialised Food Retailing,144.96398,-37.81438,0,0
 Caffe E Torta,331-339 Bourke Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96398,-37.81438,28,24
 Pho 7,136-140 Elizabeth Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96374,-37.81484,30,10
 Gourmet Curry Hut,318-322 Little Collins Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96401,-37.81489,28,18
@@ -711,7 +675,6 @@ Stellini Bar,196-212 Little Collins Street MELBOURNE 3000,Melbourne (CBD),Cafes 
 Sarti Restaurant & Bar,188-194 Little Collins Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96758,-37.81391,65,40
 Il Bacaro Cucina E Bar,166-186 Little Collins Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96787,-37.81377,45,0
 Portland Hotel,115-127 Russell Street MELBOURNE 3000,Melbourne (CBD),"Pubs, Taverns and Bars",144.9682,-37.81366,100,40
-QT Melbourne,131-141 Russell Street MELBOURNE 3000,Melbourne (CBD),Accommodation,144.96784,-37.81343,0,0
 Sushi Sushi,148 Swanston Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96622,-37.81413,36,10
 Tsujiri,146 Swanston Street MELBOURNE 3000,Melbourne (CBD),Takeaway Food Services,144.9662,-37.81418,24,12
 L'Incontro,134-142 Swanston Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96629,-37.81431,20,100
@@ -752,7 +715,6 @@ Federal Coffee Palace,338-352 Bourke Street MELBOURNE 3000,Melbourne (CBD),Cafes
 Brunetti Myer Melbourne,314-336 Bourke Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96383,-37.81345,99,0
 The Salon,314-336 Bourke Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96383,-37.81345,54,0
 The Louden Kitchen & Grill,265-279 Little Bourke Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96466,-37.8129,150,0
-Mercure Welcome Hotel,265-279 Little Bourke Street MELBOURNE 3000,Melbourne (CBD),Accommodation,144.96466,-37.8129,0,0
 Soul Cafe,191-205 Swanston Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96501,-37.8131,42,30
 Sam Sam,207-209 Swanston Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96504,-37.8129,90,0
 Yoyogi Japanese Cafe,211-213 Swanston Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96501,-37.81285,98,0
@@ -792,7 +754,6 @@ Nam Loong Seafood Restaurant,171-173 Russell Street MELBOURNE 3000,Melbourne (CB
 Ta-Ta House,179 Russell Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96753,-37.81226,80,0
 Musashi Ramen Restaurant,181-183 Russell Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96751,-37.81222,80,0
 Jinzhou Royal Barbecue,191-193 Russell Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96744,-37.81207,48,0
-Teaser Fengcha,195-197 Russell Street MELBOURNE 3000,Melbourne (CBD),Other Specialised Food Retailing,144.9674,-37.812,0,0
 Da Hu Peking Duck Restaurant,195-197 Russell Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.9674,-37.812,120,0
 The Tasty Spicy Hot Pot,212 Swanston Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96561,-37.81279,32,0
 YGF Metalang,175 Russell Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96757,-37.81234,24,0
@@ -805,7 +766,6 @@ Il Pom Italian,2 Swanston Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restau
 Crossbar Cafe,2 Swanston Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96982,-37.81779,50,0
 Chocolate Buddha,2 Swanston Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96982,-37.81779,93,180
 ACMI Cafe & Bar,2 Swanston Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96982,-37.81779,120,66
-Taxi Riverside,2 Swanston Street MELBOURNE 3000,Melbourne (CBD),Non-Residential Property Operators,144.96982,-37.81779,0,0
 Beer De Luxe,2 Swanston Street MELBOURNE 3000,Melbourne (CBD),"Pubs, Taverns and Bars",144.96982,-37.81779,200,400
 Transit Rooftop Bar,2 Swanston Street MELBOURNE 3000,Melbourne (CBD),"Pubs, Taverns and Bars",144.96982,-37.81779,40,104
 Taxi Kitchen,2 Swanston Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96982,-37.81779,220,0
@@ -871,7 +831,6 @@ Dainty Sichuan Noodle Express,269-321 Lonsdale Street MELBOURNE 3000,Melbourne (
 Toyko Pop,269-321 Lonsdale Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96393,-37.81247,60,0
 Tetsujin,269-321 Lonsdale Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96393,-37.81247,100,0
 Beneath Driver Lane,318-322 Little Bourke Street MELBOURNE 3000,Melbourne (CBD),"Pubs, Taverns and Bars",144.96313,-37.81293,75,0
-Sweet Canteen,318-322 Little Bourke Street MELBOURNE 3000,Melbourne (CBD),Other Specialised Food Retailing,144.96313,-37.81293,0,0
 Penny Blue,318-322 Little Bourke Street MELBOURNE 3000,Melbourne (CBD),"Pubs, Taverns and Bars",144.96313,-37.81293,0,14
 8 Bit,258-264 Little Bourke Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96484,-37.81252,35,0
 Tina's Noodle Kitchen,237 Swanston Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.9648,-37.81245,80,16
@@ -938,7 +897,6 @@ Hash Specialty Coffee And Roasters,394-400 Lonsdale Street MELBOURNE 3000,Melbou
 Yami Yami,394-400 Lonsdale Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96053,-37.81241,36,0
 Zambrero,386-392 Lonsdale Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96079,-37.81237,42,0
 Melbourne Meets Shanghai,382-384 Lonsdale Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96096,-37.81235,48,0
-Bread Kingdom,364-372 Lonsdale Street MELBOURNE 3000,Melbourne (CBD),Bakery Product Manufacturing (Non-factory based),144.96147,-37.81223,0,0
 Zam Zam Restaurant,364-372 Lonsdale Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96147,-37.81223,55,0
 Mamak,364-372 Lonsdale Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96147,-37.81223,100,0
 Noodle Villa,352-362 Lonsdale Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96179,-37.81214,84,0
@@ -947,7 +905,6 @@ A New Life,385-389 Little Lonsdale Street MELBOURNE 3000,Melbourne (CBD),Cafes a
 Gypsy & Pig,391-393 Little Lonsdale Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96034,-37.81187,20,10
 CJ Lunchbar,391-393 Little Lonsdale Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96034,-37.81187,36,10
 Horse Bazaar,395-397 Little Lonsdale Street MELBOURNE 3000,Melbourne (CBD),"Pubs, Taverns and Bars",144.96025,-37.8119,50,0
-Novotel/Ibis Melbourne Central,399-401 Little Lonsdale Street MELBOURNE 3000,Melbourne (CBD),Accommodation,144.96014,-37.81205,0,0
 Red Cliff Chinese Restaurant,254-258 Queen Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.95995,-37.81248,78,2
 Aroma Studio,244-250 Queen Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.95996,-37.81269,16,0
 Schnitz QV,221 Little Lonsdale Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96572,-37.81068,134,46
@@ -962,7 +919,6 @@ Plantation Speciality Coffee Roasters,221 Little Lonsdale Street MELBOURNE 3000,
 Gloria Jeans,221 Little Lonsdale Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96572,-37.81068,20,0
 Meat Fish Wine,221 Little Lonsdale Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96572,-37.81068,100,4
 Red Spice QV,221 Little Lonsdale Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96572,-37.81068,150,0
-No Vacancy,221 Little Lonsdale Street MELBOURNE 3000,Melbourne (CBD),Other Store-Based Retailing n.e.c.,144.96572,-37.81068,0,0
 Ippudo,221 Little Lonsdale Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96572,-37.81068,60,0
 Squisito Bar,221 Little Lonsdale Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96572,-37.81068,46,16
 Shophouse Kitcken,221 Little Lonsdale Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96572,-37.81068,80,75
@@ -970,11 +926,9 @@ Max Brenner Chocolates,221 Little Lonsdale Street MELBOURNE 3000,Melbourne (CBD)
 Hanaichi,221 Little Lonsdale Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96572,-37.81068,45,24
 Grill'd (QV),221 Little Lonsdale Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96572,-37.81068,100,27
 Little Sichuan,221 Little Lonsdale Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96572,-37.81068,38,0
-Breadtop Bakery,221 Little Lonsdale Street MELBOURNE 3000,Melbourne (CBD),Bakery Product Manufacturing (Non-factory based),144.96572,-37.81068,0,0
 Yokozuna Express,221 Little Lonsdale Street MELBOURNE 3000,Melbourne (CBD),Takeaway Food Services,144.96572,-37.81068,8,0
 Honest Food,221 Little Lonsdale Street MELBOURNE 3000,Melbourne (CBD),Takeaway Food Services,144.96572,-37.81068,8,0
 Hangar Cafe QV,221 Little Lonsdale Street MELBOURNE 3000,Melbourne (CBD),Takeaway Food Services,144.96572,-37.81068,30,0
-Strike Bowling,221 Little Lonsdale Street MELBOURNE 3000,Melbourne (CBD),"Sports and Physical Recreation Venues, Grounds and Facilities Operation",144.96572,-37.81068,0,0
 Cafenatics QV,221 Little Lonsdale Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96572,-37.81068,30,22
 Tokyo Japanese Restaurant,315-321 Elizabeth Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96146,-37.81122,78,0
 Isshin Ramen Bar,349 Elizabeth Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96121,-37.81067,40,0
@@ -1027,7 +981,6 @@ Naughty Nuri's Warung and Grill,183-265 La Trobe Street MELBOURNE 3000,Melbourne
 TGI Fridays Restarant & Bar,183-265 La Trobe Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96277,-37.81051,330,0
 Nando's Melbourne Central,183-265 La Trobe Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96277,-37.81051,122,0
 B. Lucky & Sons,183-265 La Trobe Street MELBOURNE 3000,Melbourne (CBD),"Pubs, Taverns and Bars",144.96277,-37.81051,49,0
-Strike Melbourne Central,183-265 La Trobe Street MELBOURNE 3000,Melbourne (CBD),"Sports and Physical Recreation Venues, Grounds and Facilities Operation",144.96277,-37.81051,0,0
 Melbourne Central Lion Hotel,183-265 La Trobe Street MELBOURNE 3000,Melbourne (CBD),"Pubs, Taverns and Bars",144.96277,-37.81051,200,0
 Sakura Kaiten Sushi II,272-282 Lonsdale Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.964,-37.81153,30,0
 Charming Spice,272-282 Lonsdale Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.964,-37.81153,200,0
@@ -1048,7 +1001,6 @@ Mr Tulk Cafe,304-328 Swanston Street MELBOURNE 3000,Melbourne (CBD),Cafes and Re
 Melbourne Kebab Box,27-31 Racecourse Road NORTH MELBOURNE 3051,North Melbourne,Takeaway Food Services,144.94096,-37.78974,0,10
 Woolstore & Co,64-90 Sutton Street NORTH MELBOURNE 3051,North Melbourne,Cafes and Restaurants,144.93767,-37.79162,28,0
 64 Sutton,64-90 Sutton Street NORTH MELBOURNE 3051,North Melbourne,Cafes and Restaurants,144.93767,-37.79162,150,30
-Souperman,41-61 Boundary Road NORTH MELBOURNE 3051,North Melbourne,Catering Services,144.93871,-37.79407,0,0
 Mr Tucker,11-41 Melrose Street NORTH MELBOURNE 3051,North Melbourne,Takeaway Food Services,144.9414,-37.79502,10,8
 Pocket Cafe,11-41 Melrose Street NORTH MELBOURNE 3051,North Melbourne,Cafes and Restaurants,144.9414,-37.79502,5,12
 Melrose Takeaway,11-41 Melrose Street NORTH MELBOURNE 3051,North Melbourne,Takeaway Food Services,144.9414,-37.79502,4,4
@@ -1086,11 +1038,9 @@ Auction Rooms,103-107 Errol Street NORTH MELBOURNE 3051,North Melbourne,Cafes an
 French Quarter Patisserie,566-574 Queensberry Street NORTH MELBOURNE 3051,North Melbourne,Cafes and Restaurants,144.94848,-37.80271,24,14
 Bela Bistro,562-564 Queensberry Street NORTH MELBOURNE 3051,North Melbourne,Cafes and Restaurants,144.94871,-37.80272,40,8
 Limerick Castle Hotel & Restaurant,161-163 Errol Street NORTH MELBOURNE 3051,North Melbourne,"Pubs, Taverns and Bars",144.94964,-37.80116,60,0
-Mecure North Melbourne,265-281 Errol Street NORTH MELBOURNE 3051,North Melbourne,Accommodation,144.95022,-37.79663,0,0
 Royal Kebab Cafe,193 Flemington Road NORTH MELBOURNE 3051,North Melbourne,Cafes and Restaurants,144.94842,-37.79508,30,8
 Reynoldo's,44-50 Errol Street NORTH MELBOURNE 3051,North Melbourne,Cafes and Restaurants,144.95012,-37.80414,150,24
 KL Bunga Raya,34 Errol Street NORTH MELBOURNE 3051,North Melbourne,Cafes and Restaurants,144.94973,-37.80436,40,14
-The Comics Lounge,20-26 Errol Street NORTH MELBOURNE 3051,North Melbourne,Clubs (Hospitality),144.94989,-37.80457,0,0
 North Melbourne Roast Chicken and Chips,16-18 Errol Street NORTH MELBOURNE 3051,North Melbourne,Takeaway Food Services,144.94965,-37.80471,6,8
 Sosta Cucina,10-14 Errol Street NORTH MELBOURNE 3051,North Melbourne,Cafes and Restaurants,144.94957,-37.80483,60,22
 Hanoi in North Melbourne,8 Errol Street NORTH MELBOURNE 3051,North Melbourne,Cafes and Restaurants,144.94957,-37.8049,18,12
@@ -1153,14 +1103,12 @@ Brew Sisters,30 Royal Parade PARKVILLE 3010,Parkville,Takeaway Food Services,144
 Egg Sake Bistro,230 Grattan Street PARKVILLE 3010,Parkville,Cafes and Restaurants,144.96124,-37.79675,52,0
 The Ida Bar,230 Grattan Street PARKVILLE 3010,Parkville,Cafes and Restaurants,144.96124,-37.79675,180,100
 The Potter Espresso Bar,230 Grattan Street PARKVILLE 3010,Parkville,Cafes and Restaurants,144.96124,-37.79675,18,66
-University House Club,230 Grattan Street PARKVILLE 3010,Parkville,Clubs (Hospitality),144.96124,-37.79675,0,0
 Professor Court Cafe,230 Grattan Street PARKVILLE 3010,Parkville,Takeaway Food Services,144.96124,-37.79675,28,30
 Carte Crepes,230 Grattan Street PARKVILLE 3010,Parkville,Takeaway Food Services,144.96124,-37.79675,0,25
 Cafe @ Resource,230 Grattan Street PARKVILLE 3010,Parkville,Takeaway Food Services,144.96124,-37.79675,0,58
 Brew Sisters Kiosk,30 Royal Parade PARKVILLE 3010,Parkville,Takeaway Food Services,144.96124,-37.79675,0,18
 Sage & Grace Cafe,29-55 College Crescent PARKVILLE 3052,Parkville,Cafes and Restaurants,144.96054,-37.79307,24,6
 Primary Cafe,381-405 Royal Parade PARKVILLE 3052,Parkville,Cafes and Restaurants,144.95868,-37.78398,70,24
-Vibe Hotel,419-443 Royal Parade PARKVILLE 3052,Parkville,Accommodation,144.95882,-37.7829,0,0
 Oshin Sushi Bar,367-377 Royal Parade PARKVILLE 3052,Parkville,Cafes and Restaurants,144.95856,-37.78493,35,0
 Parkside,367-377 Royal Parade PARKVILLE 3052,Parkville,Cafes and Restaurants,144.95856,-37.78493,60,48
 Parkville Store,52 Morrah Street PARKVILLE 3052,Parkville,Cafes and Restaurants,144.95567,-37.79525,30,8
@@ -1199,7 +1147,6 @@ Tong Fu Garden Melbourne,661-667 Spencer Street WEST MELBOURNE 3003,West Melbour
 Bob's the Name,655-657 Spencer Street WEST MELBOURNE 3003,West Melbourne (Residential),Cafes and Restaurants,144.9449,-37.80643,27,8
 Butcher Shop Cafe,72 Hawke Street WEST MELBOURNE 3003,West Melbourne (Residential),Cafes and Restaurants,144.94558,-37.808,22,12
 Apollo Cafe,109-115 Hawke Street WEST MELBOURNE 3003,West Melbourne (Residential),Cafes and Restaurants,144.94663,-37.80784,50,6
-Miami Hotel Melbourne,13-25 Hawke Street WEST MELBOURNE 3003,West Melbourne (Residential),Accommodation,144.94863,-37.80612,0,0
 Katmandu Cottage,349-351 Victoria Street WEST MELBOURNE 3003,West Melbourne (Residential),Cafes and Restaurants,144.94979,-37.80539,60,8
 Smile Thai Restaurant,357 Victoria Street WEST MELBOURNE 3003,West Melbourne (Residential),Cafes and Restaurants,144.94963,-37.80539,22,4
 Amiconi,359 Victoria Street WEST MELBOURNE 3003,West Melbourne (Residential),Cafes and Restaurants,144.94958,-37.80538,60,8
@@ -1233,7 +1180,6 @@ Royal Standard Hotel,333-337 William Street WEST MELBOURNE 3003,West Melbourne (
 Witches In Britches Pty Ltd,78-86 Dudley Street WEST MELBOURNE 3003,West Melbourne (Residential),"Pubs, Taverns and Bars",144.95264,-37.8089,350,0
 Gap Cafe,477 King Street WEST MELBOURNE 3003,West Melbourne (Residential),Cafes and Restaurants,144.95168,-37.80886,30,4
 Flames of India,468-470 Spencer Street WEST MELBOURNE 3003,West Melbourne (Residential),Cafes and Restaurants,144.94975,-37.80931,48,0
-Magic Hand Car Wash West Melbourne,438-452 Spencer Street WEST MELBOURNE 3003,West Melbourne (Residential),"Automotive Body, Paint and Interior Repair",144.95011,-37.80973,0,0
 Apotheke Specialty Coffee,177-231 Rosslyn Street WEST MELBOURNE 3003,West Melbourne (Residential),Cafes and Restaurants,144.94857,-37.81022,30,8
 Hotel Spencer Bar & Grill,475-477 Spencer Street WEST MELBOURNE 3003,West Melbourne (Residential),"Pubs, Taverns and Bars",144.94925,-37.80957,90,12
 Spence,437-439 Spencer Street WEST MELBOURNE 3003,West Melbourne (Residential),Cafes and Restaurants,144.94983,-37.81043,14,0
@@ -1245,12 +1191,10 @@ The Dispensa,369-379 King Street WEST MELBOURNE 3003,West Melbourne (Residential
 Komegashi,339 King Street WEST MELBOURNE 3003,West Melbourne (Residential),Cafes and Restaurants,144.95363,-37.81236,25,0
 Impresso Cafe,341 King Street WEST MELBOURNE 3003,West Melbourne (Residential),Cafes and Restaurants,144.9536,-37.8123,16,8
 Biryani House,343 King Street WEST MELBOURNE 3003,West Melbourne (Residential),Cafes and Restaurants,144.95357,-37.81224,24,0
-City Of Melbourne Bowls Club Inc,3 Dudley Street WEST MELBOURNE 3003,West Melbourne (Residential),"Sports and Physical Recreation Venues, Grounds and Facilities Operation",144.95442,-37.81049,0,0
 Crust Gourmet Pizza Bar Kensington,532-534 Macaulay Road KENSINGTON VIC 3031,Kensington,Takeaway Food Services,144.92845,-37.79402,4,8
 Melba Social,524 Macaulay Road KENSINGTON VIC 3031,Kensington,Cafes and Restaurants,144.92863,-37.79404,80,0
 Kensington food hall,520 Macaulay Road KENSINGTON VIC 3031,Kensington,Cafes and Restaurants,144.92876,-37.79406,54,0
 Argi,512 Macaulay Road KENSINGTON VIC 3031,Kensington,Cafes and Restaurants,144.92914,-37.79408,24,4
-New Bakehouse and Coffee,506 Macaulay Road KENSINGTON VIC 3031,Kensington,Bakery Product Manufacturing (Non-factory based),144.92931,-37.79409,0,0
 London K burgers,482 Macaulay Road KENSINGTON VIC 3031,Kensington,Cafes and Restaurants,144.92997,-37.79424,18,0
 The Premises Espresso,198-204 Bellair Street KENSINGTON VIC 3031,Kensington,Cafes and Restaurants,144.93018,-37.79426,50,12
 Spinifex Cafe,192-194 Bellair Street KENSINGTON VIC 3031,Kensington,Cafes and Restaurants,144.93005,-37.79405,32,10
@@ -1277,8 +1221,6 @@ Hardimans Hotel,Hardimans Hotel 521-535 Macaulay Road KENSINGTON VIC 3031,Kensin
 Local Folk Cafe,43 Epsom Road KENSINGTON VIC 3031,Kensington,Cafes and Restaurants,144.9256,-37.79224,60,15
 Al Capone's Pizzeria,10 Gatehouse Drive KENSINGTON VIC 3031,Kensington,Cafes and Restaurants,144.91941,-37.79173,30,10
 Don't Tell Charles Coffee & Desserts,Building B 70 Speakmen Street KENSINGTON VIC 3031,Kensington,Cafes and Restaurants,144.9163,-37.7938,14,12
-Victoria Racing Club Limited,Flemington Racecourse 428-550 Epsom Road FLEMINGTON VIC 3031,Kensington,Horse and Dog Racing Administration and Track Operation,144.91286,-37.78906,0,0
-Headquarters Tavern,Flemington Racecourse 428-550 Epsom Road FLEMINGTON VIC 3031,Kensington,Other Gambling Activities,144.91286,-37.78906,0,0
 Rye Cafe,Showgrounds Village 320-386 Epsom Road FLEMINGTON VIC 3031,Kensington,Cafes and Restaurants,144.9151,-37.78225,33,16
 Pacinos Italian Restaurant,Showgrounds Village 320-386 Epsom Road FLEMINGTON VIC 3031,Kensington,Cafes and Restaurants,144.9151,-37.78225,130,34
 Bamboo Garden,Showgrounds Village 320-386 Epsom Road FLEMINGTON VIC 3031,Kensington,Takeaway Food Services,144.9151,-37.78225,14,0
@@ -1289,13 +1231,9 @@ Eat Pizza Flinders Street,545-557 Flinders Street MELBOURNE 3000,Melbourne (CBD)
 Tokyo Maki,545-557 Flinders Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.95651,-37.82098,44,0
 Nandos Northbank,545-557 Flinders Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.95651,-37.82098,60,6
 Di Parsia Pasticceria Cafe,561-581 Flinders Street MELBOURNE 3000,Melbourne (CBD),Takeaway Food Services,144.95591,-37.82109,12,16
-Nomads Melbourne,196-200 A'Beckett Street MELBOURNE 3000,Melbourne (CBD),Accommodation,144.95744,-37.80999,0,0
 Buza Chicken,365-371 Queen Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.95799,-37.80988,50,0
-Asia Pacific Centre,375 Queen Street MELBOURNE 3000,Melbourne (CBD),Clubs (Hospitality),144.95797,-37.8097,0,0
-Radisson On Flagstaff Gardens,370-384 William Street MELBOURNE 3000,Melbourne (CBD),Accommodation,144.95612,-37.81032,0,0
 GJ's Grill,243-263 Franklin Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.95664,-37.8097,34,0
 Diner on Franklyn,243-263 Franklin Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.95664,-37.8097,28,12
-Pegasus Apartment Hotel,206-216 A'Beckett Street MELBOURNE 3000,Melbourne (CBD),Accommodation,144.95708,-37.81006,0,0
 Tokyo Ya Japanese Restaurant,218-236 A'Beckett Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.9566,-37.81017,46,0
 Cupanda Kitchen,106-116 A'Beckett Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96001,-37.80914,80,6
 Workshop,413-417 Elizabeth Street MELBOURNE 3000,Melbourne (CBD),"Pubs, Taverns and Bars",144.96052,-37.80919,50,40
@@ -1321,13 +1259,10 @@ Leap's Bakery Cafe,517-537 Flinders Lane MELBOURNE 3000,Melbourne (CBD),Takeaway
 Hardware Societe Pty Ltd,517-537 Flinders Lane MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.95666,-37.81987,70,0
 Delhi Streets,517-537 Flinders Lane MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.95666,-37.81987,28,0
 Mr Huang Jin,517-537 Flinders Lane MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.95666,-37.81987,31,0
-Five & Dime Bagel,517-537 Flinders Lane MELBOURNE 3000,Melbourne (CBD),Bakery Product Manufacturing (Non-factory based),144.95666,-37.81987,0,0
 Hunters' Roots,517-537 Flinders Lane MELBOURNE 3000,Melbourne (CBD),Takeaway Food Services,144.95666,-37.81987,10,0
 Altius Coffee Brewers,517-537 Flinders Lane MELBOURNE 3000,Melbourne (CBD),Takeaway Food Services,144.95666,-37.81987,8,5
 Thataboy,517-537 Flinders Lane MELBOURNE 3000,Melbourne (CBD),"Pubs, Taverns and Bars",144.95666,-37.81987,45,0
 Bibimbap,517-537 Flinders Lane MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.95666,-37.81987,18,0
-YHA Melbourne Central,562-564 Flinders Street MELBOURNE 3000,Melbourne (CBD),Accommodation,144.95563,-37.8206,0,0
-Punthill Melbourne Northbank / Mini Bar,556-560 Flinders Street MELBOURNE 3000,Melbourne (CBD),Accommodation,144.95577,-37.82061,0,0
 Cafe Keyif,550-554 Flinders Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.95597,-37.82039,50,0
 Flinders Kebab,532-536 Flinders Street MELBOURNE 3000,Melbourne (CBD),Takeaway Food Services,144.95644,-37.82024,17,0
 Shonan Kamakura,532-536 Flinders Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.95644,-37.82024,43,0
@@ -1335,8 +1270,6 @@ Stand Up Cafe,524-528 Flinders Street MELBOURNE 3000,Melbourne (CBD),Takeaway Fo
 Viva Kebabs,520-522 Flinders Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.95688,-37.82024,28,0
 Waterside Hotel,508-514 Flinders Street MELBOURNE 3000,Melbourne (CBD),"Pubs, Taverns and Bars",144.95715,-37.82017,250,0
 State Of Grace,27-31 King Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.95695,-37.81976,116,0
-Holiday Inn On Flinders Melbourne,561-585 Flinders Lane MELBOURNE 3000,Melbourne (CBD),Accommodation,144.9551,-37.8202,0,0
-Best Western Melbourne City,10-22 Spencer Street MELBOURNE 3000,Melbourne (CBD),Accommodation,144.95525,-37.82051,0,0
 Cherry & Twigs,547-555 Flinders Lane MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.95584,-37.82002,24,0
 Simply Spanish,507-523 Elizabeth Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.95769,-37.80724,50,25
 El Rincon,65-81 Victoria Street MELBOURNE 3000,Melbourne (CBD),Takeaway Food Services,144.95769,-37.80724,20,20
@@ -1369,9 +1302,7 @@ Sarawak Kitchen,469 Elizabeth Street MELBOURNE 3000,Melbourne (CBD),Cafes and Re
 Tang's Spicy Hot Pot,471 Elizabeth Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.95995,-37.80794,34,14
 Noodle House By Lao-Luangprabang,496-504 Elizabeth Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96035,-37.8072,50,0
 David's Spicy Hot Pot,452-472 Elizabeth Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96062,-37.80784,57,24
-Mercure Melbourne Therry Street,58-64 Franklin Street MELBOURNE 3000,Melbourne (CBD),Accommodation,144.96082,-37.80742,0,0
 Captain Melville,34-38 Franklin Street MELBOURNE 3000,Melbourne (CBD),"Pubs, Taverns and Bars",144.96162,-37.80752,160,70
-Hotel Ibis,15-21 Therry Street MELBOURNE 3000,Melbourne (CBD),Accommodation,144.9614,-37.80711,0,0
 Podium,499-511 Swanston Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96193,-37.80694,57,0
 Pork Belly House Melbourne,483 Swanston Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96209,-37.80729,24,0
 Kass Kass,492-500 Flinders Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.95782,-37.81999,56,0
@@ -1420,12 +1351,10 @@ Cecconi's Flinders Lane,61-73 Flinders Lane MELBOURNE 3000,Melbourne (CBD),Cafes
 Eastside,75-77 Flinders Lane MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.97224,-37.81515,10,0
 Felt Restaurant,26-30 Flinders Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.97359,-37.81529,40,0
 The Truffula Seed Cafe,1-9 Spring Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.97379,-37.81499,36,0
-Mercure Hotel,13-23 Spring Street MELBOURNE 3000,Melbourne (CBD),Accommodation,144.9742,-37.81477,0,0
 Tom Thumb Espresso,55 Flinders Lane MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.97284,-37.81486,15,10
 The Press Club,46-74 Flinders Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.97272,-37.81546,50,0
 No 8 Exhibition Cafe,46-74 Flinders Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.97272,-37.81546,80,0
 Gazi,46-74 Flinders Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.97272,-37.81546,160,0
-Sea Life Melbourne Aquarium,King Street MELBOURNE 3000,Melbourne (CBD),Zoological and Botanical Gardens Operation,144.95851,-37.82059,0,0
 Restaurant 1903,44-64 Spencer Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.95478,-37.81973,75,0
 Buddabah,559-587 Collins Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.95572,-37.81902,26,72
 Virgin Active Australia Pty Ltd,559-587 Collins Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.95572,-37.81902,40,0
@@ -1434,8 +1363,6 @@ Spudbar Collins Street 567,559-587 Collins Street MELBOURNE 3000,Melbourne (CBD)
 Guzman Y Gomez,559-587 Collins Street MELBOURNE 3000,Melbourne (CBD),Takeaway Food Services,144.95572,-37.81902,0,11
 Isshin Healthy Food,559-587 Collins Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.95572,-37.81902,0,18
 Black Rice,559-587 Collins Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.95572,-37.81902,44,30
-Batman's Hill On Collins Hotel,607-623 Collins Street MELBOURNE 3000,Melbourne (CBD),Accommodation,144.95469,-37.81929,0,0
-Krispy Kreme,607-623 Collins Street MELBOURNE 3000,Melbourne (CBD),Bakery Product Manufacturing (Non-factory based),144.95469,-37.81929,0,0
 Bonnie Coffee Brewers,487-503 Collins Street MELBOURNE 3000,Melbourne (CBD),Takeaway Food Services,144.95812,-37.81854,10,12
 Alluvial Restaurant,487-503 Collins Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.95812,-37.81854,110,0
 Market Lane Bar,487-503 Collins Street MELBOURNE 3000,Melbourne (CBD),"Pubs, Taverns and Bars",144.95812,-37.81854,50,0
@@ -1454,7 +1381,6 @@ Oak & Vine Restaurant,54-60 Market Street MELBOURNE 3000,Melbourne (CBD),Cafes a
 Mionma,42-52 Market Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96082,-37.81805,36,0
 Long Macc on Queens,43-51 Queen Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96161,-37.81774,24,0
 Harley House,69-73 Collins Street MELBOURNE 3000,Melbourne (CBD),"Pubs, Taverns and Bars",144.97135,-37.81434,90,0
-Alexandra Club,75-81 Collins Street MELBOURNE 3000,Melbourne (CBD),Clubs (Hospitality),144.97117,-37.8144,0,0
 Sushi Land,89-105 Collins Street MELBOURNE 3000,Melbourne (CBD),Takeaway Food Services,144.97082,-37.81487,10,10
 Pezzo,89-105 Collins Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.97082,-37.81487,50,0
 Barista 101,89-105 Collins Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.97082,-37.81487,38,10
@@ -1499,7 +1425,6 @@ Kantina Kartel,500-514 Collins Street MELBOURNE 3000,Melbourne (CBD),Cafes and R
 Henry & The Fox,500-514 Collins Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.95747,-37.81757,181,100
 Express Kartel,500-514 Collins Street MELBOURNE 3000,Melbourne (CBD),Takeaway Food Services,144.95747,-37.81757,8,16
 Cafenatics On Church,500-514 Collins Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.95747,-37.81757,47,0
-Oaks On Collins,480-490 Collins Street MELBOURNE 3000,Melbourne (CBD),Accommodation,144.95797,-37.81764,0,0
 Yuzu Cafe & Cuisine,480-490 Collins Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.95797,-37.81764,120,0
 Royal Stacks,468-478 Collins Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.95833,-37.81754,110,12
 Saving Grace,505-515 Little Collins Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.9578,-37.8172,50,0
@@ -1507,7 +1432,6 @@ In A Rush,505-515 Little Collins Street MELBOURNE 3000,Melbourne (CBD),Cafes and
 Culpa Espresso,91-97 William Street MELBOURNE 3000,Melbourne (CBD),Takeaway Food Services,144.95852,-37.81712,4,0
 Mitre Tavern,5-9 Bank Place MELBOURNE 3000,Melbourne (CBD),"Pubs, Taverns and Bars",144.96029,-37.8168,100,88
 Curry Vault,18-20 Bank Place MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96052,-37.81643,60,6
-Melbourne Savage Club,12-16 Bank Place MELBOURNE 3000,Melbourne (CBD),Clubs (Hospitality),144.96058,-37.81655,0,0
 Treviso,4-10 Bank Place MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96065,-37.81669,85,16
 Macchiato On Collins,446-452 Collins Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.95944,-37.8173,34,6
 Sunny Boy Cafe,430-442 Collins Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.95976,-37.81703,30,16
@@ -1528,12 +1452,10 @@ Marrakech Bar,435-443 Little Collins Street MELBOURNE 3000,Melbourne (CBD),"Pubs
 Intimo,435-443 Little Collins Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.9601,-37.8164,50,0
 Korean Healthy Food BBQ Box,457-469 Little Collins Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.95955,-37.81661,20,14
 Terrace Deli,457-469 Little Collins Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.95955,-37.81661,82,32
-CUB Private Business Club,93-95 Queen Street MELBOURNE 3000,Melbourne (CBD),Clubs (Hospitality),144.96098,-37.81638,0,0
 Brioche By Philip,97-101 Queen Street MELBOURNE 3000,Melbourne (CBD),Takeaway Food Services,144.96096,-37.81625,25,0
 Aki Sushi,103-105 Queen Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96081,-37.81615,56,0
 Chaise Lounge,103-105 Queen Street MELBOURNE 3000,Melbourne (CBD),"Pubs, Taverns and Bars",144.96081,-37.81615,40,0
 I Bean,103-105 Queen Street MELBOURNE 3000,Melbourne (CBD),Takeaway Food Services,144.96081,-37.81615,3,0
-The Australian Club,98-110 William Street MELBOURNE 3000,Melbourne (CBD),Other Interest Group Services n.e.c.,144.95912,-37.81675,0,0
 The Bank On Collins,394 Collins Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96108,-37.81662,100,0
 Rockpool Events & Catering,7-19 Alfred Place MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96991,-37.81401,185,0
 Raku Raku,106-120 Collins Street MELBOURNE 3000,Melbourne (CBD),Takeaway Food Services,144.96931,-37.814,12,0
@@ -1545,7 +1467,6 @@ Pink Alley Bar,86-88 Collins Street MELBOURNE 3000,Melbourne (CBD),"Pubs, Tavern
 Harry's At Stamford,121-127 Little Collins Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96977,-37.81369,200,8
 Cafe 60,56-64 Collins Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.97162,-37.81362,60,0
 Koko Black Chocolate,52-54 Collins Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.97184,-37.81356,65,15
-The Melbourne Club,36-50 Collins Street MELBOURNE 3000,Melbourne (CBD),Clubs (Hospitality),144.97211,-37.81325,0,0
 McDonald's,24-28 Collins Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.97271,-37.81342,54,44
 Cafe Alcaston,2 Collins Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.97355,-37.81304,35,0
 Bar Lourinha,37 Little Collins Street MELBOURNE 3000,Melbourne (CBD),"Pubs, Taverns and Bars",144.97249,-37.81278,60,0
@@ -1553,17 +1474,14 @@ Lupino,39-41 Little Collins Street MELBOURNE 3000,Melbourne (CBD),Cafes and Rest
 N Lee Bakery And Cafe,57-67 Little Collins Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.97169,-37.81314,18,0
 Sakura Kaiten Sushi,57-67 Little Collins Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.97169,-37.81314,34,0
 Liaision,22 Ridgway Place MELBOURNE 3000,Melbourne (CBD),Takeaway Food Services,144.97249,-37.81292,22,10
-The Lyceum Club,2-18 Ridgway Place MELBOURNE 3000,Melbourne (CBD),Clubs (Hospitality),144.9726,-37.81315,0,0
 Up Top,93-101 Spring Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.97318,-37.8126,32,28
 Saki Sushi Bar,93-101 Spring Street MELBOURNE 3000,Melbourne (CBD),Takeaway Food Services,144.97318,-37.8126,12,14
 Little Bean Blue,93-101 Spring Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.97318,-37.8126,20,16
 Coffee Exchange,93-101 Spring Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.97318,-37.8126,45,18
 Royal Melbourne Hotel,621-633 Bourke Street MELBOURNE 3000,Melbourne (CBD),"Pubs, Taverns and Bars",144.95523,-37.81687,200,72
 Kinfolk Cafe,669-675 Bourke Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.9541,-37.81722,36,14
-Ibis Styles Kingsgate,131-137 King Street MELBOURNE 3000,Melbourne (CBD),Accommodation,144.9555,-37.81708,0,0
 Saravanaa Bhavan Melbourne,131-137 King Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.9555,-37.81708,96,0
 Saint & Rogue,582-584 Little Collins Street MELBOURNE 3000,Melbourne (CBD),"Pubs, Taverns and Bars",144.95535,-37.81742,120,20
-The Savoy Hotel on Little Collins,626-636 Little Collins Street MELBOURNE 3000,Melbourne (CBD),Accommodation,144.95393,-37.81777,0,0
 Pok Pok Junior,555 Bourke Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.95781,-37.81636,50,40
 Etto St James,535 Bourke Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.95781,-37.81636,58,47
 Burger Project St James,535 Bourke Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.95781,-37.81636,120,32
@@ -1586,8 +1504,6 @@ Pho Nung Vietnamese Restaurant,520-536 Little Collins Street MELBOURNE 3000,Melb
 Uncle David's Cafe,520-536 Little Collins Street MELBOURNE 3000,Melbourne (CBD),Takeaway Food Services,144.95711,-37.81688,8,0
 Bambini Barrista,520-536 Little Collins Street MELBOURNE 3000,Melbourne (CBD),Takeaway Food Services,144.95711,-37.81688,16,14
 Cafe Felice,457-471 Bourke Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96017,-37.81549,14,40
-Le Petit Gateau,483-501 Bourke Street MELBOURNE 3000,Melbourne (CBD),Bakery Product Manufacturing (Non-factory based),144.95958,-37.81589,0,0
-RACV City Club,483-501 Bourke Street MELBOURNE 3000,Melbourne (CBD),Accommodation,144.95958,-37.81589,0,0
 Benny Burger,430-436 Little Collins Street MELBOURNE 3000,Melbourne (CBD),Takeaway Food Services,144.96011,-37.81597,9,16
 Iki-Jime,430-436 Little Collins Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96011,-37.81597,110,12
 Smokestack,111-129 Queen Street MELBOURNE 3000,Melbourne (CBD),Takeaway Food Services,144.96063,-37.81581,17,0
@@ -1610,7 +1526,6 @@ Burma Lane,111-129 Bourke Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restau
 Asian Lane,121 Exhibition Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.97011,-37.81281,40,10
 Tower Shushi,121 Exhibition Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.97011,-37.81281,56,24
 Dumpling King,121 Exhibition Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.97011,-37.81281,32,24
-Joy Cupcakes,121 Exhibition Street MELBOURNE 3000,Melbourne (CBD),Bakery Product Manufacturing (Non-factory based),144.97011,-37.81281,0,0
 The Meating House,121 Exhibition Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.97011,-37.81281,16,16
 Urban Deli SX1,121 Exhibition Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.97011,-37.81281,98,110
 Ba'get,132-134 Russell Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants, , ,24,12
@@ -1642,9 +1557,7 @@ Bar Carlo,20 Meyers Place MELBOURNE 3000,Melbourne (CBD),"Pubs, Taverns and Bars
 Waiters Restaurant,20 Meyers Place MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.97235,-37.81208,55,0
 Pizza Pizza Pizza,12-18 Meyers Place MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.97248,-37.81225,40,0
 San Telmo Restaurant,12-18 Meyers Place MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.97248,-37.81225,85,0
-Windsor Hotel,103-137 Spring Street MELBOURNE 3000,Melbourne (CBD),Accommodation,144.97292,-37.81199,0,0
 Loop Project Space & Bar,19-23 Meyers Place MELBOURNE 3000,Melbourne (CBD),"Pubs, Taverns and Bars",144.97211,-37.81215,30,148
-Alto Hotel On Bourke,636-638 Bourke Street MELBOURNE 3000,Melbourne (CBD),Accommodation,144.95471,-37.81628,0,0
 Power Cafe,624-634 Bourke Street MELBOURNE 3000,Melbourne (CBD),Takeaway Food Services,144.9548,-37.81596,20,0
 Dosa Corner,612-620 Bourke Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.95533,-37.81623,50,0
 Shanghai Master Dumpling,171-173 King Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.95526,-37.81608,50,0
@@ -1672,6 +1585,7 @@ Sakae,181 William Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,14
 Roll'D Vietnamese Kitchen,181 William Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.95739,-37.81532,0,30
 Slate Restaurant Bar,515 Little Bourke Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.95739,-37.81532,80,50
 Brewer's Place,181 William Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.95739,-37.81532,42,34
+Little Cupcakes,181 William Street MELBOURNE 3000,Melbourne (CBD),Takeaway Food Services,144.95739,-37.81532,13,16
 Bluestones 520 Cafe,516-526 Bourke Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.95839,-37.81527,70,16
 Ikyu Sushi,494-512 Bourke Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.95877,-37.81496,80,0
 The Tuck Shop,494-512 Bourke Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.95877,-37.81496,60,0
@@ -1695,8 +1609,6 @@ Mr Crackles,164-166 Bourke Street MELBOURNE 3000,Melbourne (CBD),Takeaway Food S
 Whitte Tomato,160-162 Bourke Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96847,-37.81245,70,0
 Ginza Teppanyaki Japanese Restaurant,152-158 Bourke Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96852,-37.81196,80,0
 Rising Embers,152-158 Bourke Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96852,-37.81196,120,0
-Charltons Entertainment Complex / Roxanne Bar,152-158 Bourke Street MELBOURNE 3000,Melbourne (CBD),"Sports and Physical Recreation Venues, Grounds and Facilities Operation",144.96852,-37.81196,0,0
-Virgin Active Health Club,134-144 Bourke Street MELBOURNE 3000,Melbourne (CBD),Health and Fitness Centres and Gymnasia Operation,144.96884,-37.81202,0,0
 Shark Fin House,134-144 Bourke Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96884,-37.81202,350,0
 FM Karaoke Bar,146-150 Bourke Street MELBOURNE 3000,Melbourne (CBD),"Pubs, Taverns and Bars",144.96874,-37.81235,15,0
 Welcome Stranger,124-128 Bourke Street MELBOURNE 3000,Melbourne (CBD),"Pubs, Taverns and Bars",144.96926,-37.81207,60,32
@@ -1752,13 +1664,11 @@ Kri Kri Restaurant,37-41 Little Bourke Street MELBOURNE 3000,Melbourne (CBD),Caf
 SPQR Pizzeria,43 Little Bourke Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.97136,-37.81092,45,0
 Punch Lane Wine Bar/Restaurant,43 Little Bourke Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.97136,-37.81092,45,14
 Bamboo House,47-55 Little Bourke Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.97111,-37.81102,120,0
-Crossley Hotel,47-55 Little Bourke Street MELBOURNE 3000,Melbourne (CBD),Accommodation,144.97111,-37.81102,0,0
 Bodega Underground,47-55 Little Bourke Street MELBOURNE 3000,Melbourne (CBD),"Pubs, Taverns and Bars",144.97111,-37.81102,80,0
 City Wine Shop,159 Spring Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.97247,-37.81099,45,60
 The European,161 Spring Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.97243,-37.81095,50,18
 The Melbourne Supper Club,161 Spring Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.97243,-37.81095,90,0
 Siglo Bar,161 Spring Street MELBOURNE 3000,Melbourne (CBD),"Pubs, Taverns and Bars",144.97243,-37.81095,80,0
-Princess Theatre,163-181 Spring Street MELBOURNE 3000,Melbourne (CBD),Performing Arts Operation,144.97233,-37.81073,0,0
 Red Pepper Indian Restaurant,16 Bourke Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.97241,-37.81128,33,16
 Bar Humbug,203-207 King Street MELBOURNE 3000,Melbourne (CBD),"Pubs, Taverns and Bars",144.95497,-37.81539,45,0
 Salaam Namaste Dosa Hut CBD,209-211 King Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.95493,-37.8153,75,0
@@ -1771,11 +1681,9 @@ Korean Table,21-39 Rose Lane MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurant
 I Love Chicken,21-39 Rose Lane MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.95362,-37.81542,30,0
 District Mot Vietnamese,1-19 Rose Lane MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.95362,-37.81542,40,8
 Rolling Nori,1-19 Rose Lane MELBOURNE 3000,Melbourne (CBD),Takeaway Food Services,144.95362,-37.81542,8,10
-Glory Cakes,1-19 Rose Lane MELBOURNE 3000,Melbourne (CBD),Bakery Product Manufacturing (Non-factory based),144.95362,-37.81542,0,0
 Ninja Teppanyaki,220 Spencer Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.95362,-37.81542,20,24
 Higher Ground,220 Spencer Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.95362,-37.81542,120,22
 Crystal Jade,21-39 Rose Lane MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.95362,-37.81542,50,0
-Hotel Ibis Little Bourke Street,594-600 Little Bourke Street MELBOURNE 3000,Melbourne (CBD),Accommodation,144.95457,-37.81537,0,0
 Colonial Hotel / Brown Alley Night Club,234-244 King Street MELBOURNE 3000,Melbourne (CBD),"Pubs, Taverns and Bars",144.95522,-37.81459,128,28
 Thai Kitchen Beer,232 King Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.95528,-37.81473,40,0
 Hibachi,228-230 King Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.95531,-37.81479,100,0
@@ -1792,7 +1700,6 @@ Bruce Lee Sushi & Roll,189-203 William Street MELBOURNE 3000,Melbourne (CBD),Tak
 The Poke Man,189-203 William Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.95707,-37.81465,24,8
 Little Billy's Melbourne,189-203 William Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.95707,-37.81465,150,0
 Il Mio Pasta Cafe,189-203 William Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.95707,-37.81465,40,0
-The Essoign Club,205-221 William Street MELBOURNE 3000,Melbourne (CBD),Clubs (Hospitality),144.95714,-37.81428,0,0
 Denmark House/The Danish Club,428-432 Little Bourke Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.95973,-37.81393,45,0
 Little Avenue des Italians,428-432 Little Bourke Street MELBOURNE 3000,Melbourne (CBD),Takeaway Food Services,144.95973,-37.81393,8,0
 Saxe Restaurant,207-213 Queen Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.95991,-37.81387,50,0
@@ -1805,7 +1712,6 @@ Ho's Cafe,221-231 Queen Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaura
 Tea House At Chinatown,11-17 Cohen Place MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96894,-37.81104,100,0
 Fukuryu Ramen,22-26 Corrs Lane MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96832,-37.811,60,0
 Sichuan House,22-26 Corrs Lane MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96832,-37.811,76,0
-Her Majesty's Theatre,199-219 Exhibition Street MELBOURNE 3000,Melbourne (CBD),Performing Arts Venue Operation,144.96951,-37.81092,0,0
 Yamato Japanese Restaurant,221-227 Exhibition Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96958,-37.81067,28,0
 Steami House,231-233 Exhibition Street MELBOURNE 3000,Melbourne (CBD),Takeaway Food Services,144.96951,-37.81051,23,0
 Curry Bowl,237-239 Exhibition Street MELBOURNE 3000,Melbourne (CBD),Takeaway Food Services,144.96945,-37.81037,10,0
@@ -1882,7 +1788,6 @@ The Firm Espresso Bar,458-468 Lonsdale Street MELBOURNE 3000,Melbourne (CBD),Caf
 Trunk,275-285 Exhibition Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96891,-37.80938,150,200
 Goody's Burger House,166-170 Lonsdale Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96737,-37.81057,35,16
 Melina on the Rooftop,166-170 Lonsdale Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96737,-37.81057,0,100
-Melbourne Marriott Hotel,92-106 Lonsdale Street MELBOURNE 3000,Melbourne (CBD),Accommodation,144.96914,-37.80989,0,0
 Melbourne Whisky Room,270 Russell Street MELBOURNE 3000,Melbourne (CBD),"Pubs, Taverns and Bars",144.96716,-37.81011,45,0
 Whisky and Alement,270 Russell Street MELBOURNE 3000,Melbourne (CBD),"Pubs, Taverns and Bars",144.96716,-37.81011,45,0
 Hutong Hotpot,264-266 Russell Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.9672,-37.8102,90,0
@@ -1918,7 +1823,6 @@ Quanjude Restaurant,299-319 Queen Street MELBOURNE 3000,Melbourne (CBD),Cafes an
 Melbourne Mahn Doo,299-319 Queen Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.95866,-37.81145,90,16
 Grounds of Arcadia,280-0 William Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.95736,-37.81209,115,250
 The Mint Bar & Restaurant,318 William Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.95736,-37.81209,36,90
-Fraser Place Melbourne,10-14 Bennetts Lane MELBOURNE 3000,Melbourne (CBD),Accommodation,144.96792,-37.80905,0,0
 Vanilla Bean,287-293 Exhibition Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96889,-37.80907,80,0
 Sally's Kitchen,295-301 Exhibition Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96883,-37.80893,50,15
 Miss Chu,295-301 Exhibition Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96883,-37.80893,50,12
@@ -1963,7 +1867,6 @@ Joomak Korean Restaurant,407-409 Swanston Street MELBOURNE 3000,Melbourne (CBD),
 Wonderbao,19-37 A'Beckett Street MELBOURNE 3000,Melbourne (CBD),Takeaway Food Services,144.96261,-37.80894,6,0
 No 1 Spicy Pot,19-37 A'Beckett Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96261,-37.80894,58,0
 The Orient Dragon Hotpot,55-59 A'Beckett Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96195,-37.80913,194,0
-Marche Board Game Cafe,61-69 A'Beckett Street MELBOURNE 3000,Melbourne (CBD),Amusement and Other Recreational Activities n.e.c.,144.96175,-37.80919,0,0
 B Churrasco,61-69 A'Beckett Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96175,-37.80919,180,0
 Pearson and Murphy's Cafe,124 La Trobe Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96455,-37.80818,76,80
 The Terrace Restaurant Bar & Grill,333-351 Exhibition Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96806,-37.80781,103,15
@@ -1971,10 +1874,8 @@ Thailicious,355-357 Exhibition Street MELBOURNE 3000,Melbourne (CBD),Cafes and R
 Shanghai Street / Momo Tea,58-66 La Trobe Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96694,-37.8083,40,0
 Blu Point Caffe,336 Russell Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96647,-37.80825,45,26
 Han Guuk Guan Korean Restaurant,13A Victoria Street MELBOURNE 3000,Melbourne (CBD),Cafes and Restaurants,144.96798,-37.80759,124,0
-Delaware North Companies Australia Pty Ltd,Rod Laver Arena Melbourne Park 200 Batman Avenue MELBOURNE VIC 3004,Melbourne (Remainder),Catering Services,144.98774,-37.82396,0,0
 The Glasshouse Eatery,The Glasshouse 20 Olympic Boulevard MELBOURNE VIC 3004,Melbourne (Remainder),Cafes and Restaurants,144.98244,-37.82486,70,46
 Edwin's Cafe,AAMI Park Olympic Park 60 Olympic Boulevard MELBOURNE VIC 3004,Melbourne (Remainder),Cafes and Restaurants,144.98244,-37.82486,150,24
-Royce Hotel,Royce Hotel 375-385 St Kilda Road MELBOURNE VIC 3004,Melbourne (Remainder),Accommodation,144.97554,-37.83509,0,0
 Nar Bangkok,391 St Kilda Road MELBOURNE VIC 3004,Melbourne (Remainder),Cafes and Restaurants,144.97572,-37.83548,48,13
 Saigonese Pho,391 St Kilda Road MELBOURNE VIC 3004,Melbourne (Remainder),Cafes and Restaurants,144.97572,-37.83548,24,24
 Cafe Rosco,407B-407D St Kilda Road MELBOURNE VIC 3004,Melbourne (Remainder),Cafes and Restaurants,144.97619,-37.83627,88,24
@@ -1984,9 +1885,7 @@ The Cupcake Queens,415-421 St Kilda Road MELBOURNE VIC 3004,Melbourne (Remainder
 Rolld St Kilda road,415-421 St Kilda Road MELBOURNE VIC 3004,Melbourne (Remainder),Cafes and Restaurants,144.97704,-37.83775,52,0
 Nutrition Bar,415-421 St Kilda Road MELBOURNE VIC 3004,Melbourne (Remainder),Cafes and Restaurants,144.97704,-37.83775,11,0
 Japan Inn Gourmet Sushi,427-431 St Kilda Road MELBOURNE VIC 3004,Melbourne (Remainder),Cafes and Restaurants,144.97725,-37.83855,8,16
-Calla & Gardenia The Florist,427-431 St Kilda Road MELBOURNE VIC 3004,Melbourne (Remainder),Flower Retailing,144.97725,-37.83855,0,0
 Slater St Bench,427-431 St Kilda Road MELBOURNE VIC 3004,Melbourne (Remainder),Cafes and Restaurants,144.97725,-37.83855,6,32
-Ormond Collective,557 St Kilda Road MELBOURNE VIC 3004,Melbourne (Remainder),Non-Residential Property Operators,144.98134,-37.84752,0,0
 Rosco's @ Chevron,519-539 St Kilda Road MELBOURNE VIC 3004,Melbourne (Remainder),Cafes and Restaurants,144.97987,-37.84557,76,66
 Hawker Canteen,519-539 St Kilda Road MELBOURNE VIC 3004,Melbourne (Remainder),Cafes and Restaurants,144.97987,-37.84557,17,14
 Nando's Chevron,519-539 St Kilda Road MELBOURNE VIC 3004,Melbourne (Remainder),Cafes and Restaurants,144.97987,-37.84557,18,32
@@ -2002,15 +1901,12 @@ Ground Up,455-457 St Kilda Road MELBOURNE VIC 3004,Melbourne (Remainder),Cafes a
 The Deck Cafe On St Kilda Road,477-479 St Kilda Road MELBOURNE VIC 3004,Melbourne (Remainder),Cafes and Restaurants,144.97856,-37.84188,32,60
 Locale Coffee,517 St Kilda Road MELBOURNE VIC 3004,Melbourne (Remainder),Takeaway Food Services,144.97929,-37.84459,4,9
 Ai Sushi,517 St Kilda Road MELBOURNE VIC 3004,Melbourne (Remainder),Cafes and Restaurants,144.97929,-37.84459,28,0
-Riverside Skate Park,Alexandra Gardens Alexandra Avenue MELBOURNE VIC 3004,Melbourne (Remainder),"Sports and Physical Recreation Venues, Grounds and Facilities Operation",144.97248,-37.82086,0,0
-The Atlantic Group,Royal Botanic Gardens Victoria Birdwood Avenue MELBOURNE VIC 3004,Melbourne (Remainder),Catering Services,144.97565,-37.82975,0,0
 Jardin Tan,Royal Botanic Gardens Victoria Birdwood Avenue MELBOURNE VIC 3004,Melbourne (Remainder),Cafes and Restaurants,144.97565,-37.82975,81,207
 The Terrace,Royal Botanic Gardens Victoria Birdwood Avenue MELBOURNE VIC 3004,Melbourne (Remainder),Cafes and Restaurants,144.97565,-37.82975,200,75
 Alfretti Cafe,Alfred Hospital 23-99 Commercial Road PRAHRAN VIC 3181,Melbourne (Remainder),Cafes and Restaurants,144.98281,-37.8466,40,50
 My Serendipity Cafe,Alfred Hospital 23-99 Commercial Road PRAHRAN VIC 3181,Melbourne (Remainder),Cafes and Restaurants,144.98281,-37.8466,18,12
 Alf's Cafe,Alfred Hospital 23-99 Commercial Road PRAHRAN VIC 3181,Melbourne (Remainder),Cafes and Restaurants,144.98281,-37.8466,244,130
 Bolte Cafe,816 Lorimer Street PORT MELBOURNE VIC 3207,Port Melbourne,Cafes and Restaurants,144.931,-37.82205,52,24
-Designed For Livin,Lorimer Place 874-886 Lorimer Street PORT MELBOURNE VIC 3207,Port Melbourne,Other Personal Services n.e.c.,144.93616,-37.82373,0,0
 Cafe Port IT,49-89 Turner Street PORT MELBOURNE VIC 3207,Port Melbourne,Cafes and Restaurants,144.92539,-37.82303,35,28
 Hall St Cafe,49-89 Turner Street PORT MELBOURNE VIC 3207,Port Melbourne,Cafes and Restaurants,144.92539,-37.82303,59,0
 Portside Deli,3 Central Boulevard PORT MELBOURNE VIC 3207,Port Melbourne,Cafes and Restaurants,144.91884,-37.82228,44,8
@@ -2023,8 +1919,6 @@ Red Rooster Westgate,46-62 Cook Street PORT MELBOURNE VIC 3207,Port Melbourne,Ca
 Hudsons Coffee Port Melbourne,187 Todd Road PORT MELBOURNE VIC 3207,Port Melbourne,Cafes and Restaurants,144.91056,-37.82639,14,16
 Bonnie and Duke Cafe Port Melbourne,262-276 Lorimer Street PORT MELBOURNE VIC 3207,Port Melbourne,Cafes and Restaurants,144.90498,-37.82648,40,4
 Sabre Cafe,38-46 Sabre Drive PORT MELBOURNE VIC 3207,Port Melbourne,Cafes and Restaurants,144.90634,-37.82798,56,22
-The Wharf Bakehouse,34 Wirraway Drive PORT MELBOURNE VIC 3207,Port Melbourne,Bakery Product Manufacturing (Non-factory based),144.9095,-37.82676,0,0
-Urban Central Accomodation/Bar334,334-342 City Road SOUTHBANK VIC 3006,Southbank,Accommodation,144.95735,-37.82784,0,0
 A Treat of France,The Bank Apartments 269-283 City Road SOUTHBANK VIC 3006,Southbank,Cafes and Restaurants,144.95903,-37.8273,25,10
 Circolo,58 Clarke Street SOUTHBANK VIC 3006,Southbank,Cafes and Restaurants,144.95934,-37.82787,18,8
 Edwin Wine Bar,105-107 Clarendon Street SOUTHBANK VIC 3006,Southbank,Cafes and Restaurants,144.95825,-37.82712,72,0
@@ -2090,10 +1984,7 @@ Breslin Bar And Grill,1-9 Southbank Boulevard SOUTHBANK VIC 3006,Southbank,Cafes
 Jiao Zi,1-9 Southbank Boulevard SOUTHBANK VIC 3006,Southbank,Cafes and Restaurants,144.96286,-37.82106,15,0
 Left Bank Melbourne,1-9 Southbank Boulevard SOUTHBANK VIC 3006,Southbank,Cafes and Restaurants,144.96286,-37.82106,100,75
 The Bond Store Cafe,Riverside Apartments 1 Riverside Quay SOUTHBANK VIC 3006,Southbank,Cafes and Restaurants,144.96388,-37.82191,60,14
-Eureka Skydeck 88,Eureka Tower 3-7 Riverside Quay SOUTHBANK VIC 3006,Southbank,Amusement and Other Recreational Activities n.e.c.,144.96453,-37.82167,0,0
 Belgian Beer Cafe Melbourne,Eureka Tower 3-7 Riverside Quay SOUTHBANK VIC 3006,Southbank,"Pubs, Taverns and Bars",144.96453,-37.82167,150,60
-Travelodge Southbank,Travelodge 9 Riverside Quay SOUTHBANK VIC 3006,Southbank,Accommodation,144.96524,-37.82133,0,0
-Melbourne BMW,BMW Melbourne 102-156 City Road SOUTHBANK VIC 3006,Southbank,Car Retailing,144.96295,-37.82293,0,0
 Bluebag Fresh,Freshwater Place Residential 1-9 Freshwater Place SOUTHBANK VIC 3006,Southbank,Takeaway Food Services,144.96218,-37.82172,30,0
 Frankie Walter Peta,Freshwater Place Residential 1-9 Freshwater Place SOUTHBANK VIC 3006,Southbank,Cafes and Restaurants,144.96218,-37.82172,15,6
 Suni Sushi Bar,Freshwater Place Residential 1-9 Freshwater Place SOUTHBANK VIC 3006,Southbank,Cafes and Restaurants,144.96218,-37.82172,40,0
@@ -2113,7 +2004,6 @@ Gochi,Crown Entertainment Complex 8 Whiteman Street SOUTHBANK VIC 3006,Southbank
 Nobu Melbourne,Crown Entertainment Complex 8 Whiteman Street SOUTHBANK VIC 3006,Southbank,Cafes and Restaurants,144.95835,-37.82315,160,0
 Ging Thai,Crown Entertainment Complex 8 Whiteman Street SOUTHBANK VIC 3006,Southbank,Cafes and Restaurants,144.95835,-37.82315,100,90
 Tia To Vietnamese Restaurant,Crown Entertainment Complex 8 Whiteman Street SOUTHBANK VIC 3006,Southbank,Cafes and Restaurants,144.95835,-37.82315,112,0
-Crown Entertainment Complex,Crown Entertainment Complex 8 Whiteman Street SOUTHBANK VIC 3006,Southbank,Casino Operation,144.95835,-37.82315,0,0
 The Merrywell,Crown Entertainment Complex 8 Whiteman Street SOUTHBANK VIC 3006,Southbank,Cafes and Restaurants,144.95835,-37.82315,80,64
 Rosetta,Crown Entertainment Complex 8 Whiteman Street SOUTHBANK VIC 3006,Southbank,Cafes and Restaurants,144.95835,-37.82315,88,63
 Spice Temple,Crown Entertainment Complex 8 Whiteman Street SOUTHBANK VIC 3006,Southbank,Cafes and Restaurants,144.95835,-37.82315,180,0
@@ -2140,14 +2030,10 @@ Caffe Orr,Pan Pacific Melbourne 2 Convention Centre Place SOUTH WHARF VIC 3006,S
 Common Man,South Wharf Retail 20-30 Convention Centre Place SOUTH WHARF VIC 3006,Southbank,Cafes and Restaurants,144.9523,-37.82539,88,59
 Citizen Cafe,Pan Pacific Melbourne 2 Convention Centre Place SOUTH WHARF VIC 3006,Southbank,Cafes and Restaurants,144.9523,-37.82539,40,33
 Melbourne Public,Pan Pacific Melbourne 2 Convention Centre Place SOUTH WHARF VIC 3006,Southbank,"Pubs, Taverns and Bars",144.9523,-37.82539,350,100
-Pan Pacific,Pan Pacific Melbourne 2 Convention Centre Place SOUTH WHARF VIC 3006,Southbank,Accommodation,144.9523,-37.82539,0,0
-Novotel Melbourne South Wharf,Novotel Melbourne South Wharf Hotel 7 Convention Centre Place SOUTH WHARF VIC 3006,Southbank,Accommodation,144.9523,-37.82539,0,0
 Boho,South Wharf Retail 20-30 Convention Centre Place SOUTH WHARF VIC 3006,Southbank,Cafes and Restaurants,144.9523,-37.82539,85,40
 Melbourne Cellar Door,South Wharf Retail 20-30 Convention Centre Place SOUTH WHARF VIC 3006,Southbank,Cafes and Restaurants,144.9523,-37.82539,204,40
 Dock 37 Bar & Kitchen,Pan Pacific Melbourne 2 Convention Centre Place SOUTH WHARF VIC 3006,Southbank,Cafes and Restaurants,144.9523,-37.82539,150,0
 Studio Coffee,South Wharf Retail 20-30 Convention Centre Place SOUTH WHARF VIC 3006,Southbank,Cafes and Restaurants,144.9523,-37.82539,100,0
-Aerial,South Wharf Retail 20-30 Convention Centre Place SOUTH WHARF VIC 3006,Southbank,Non-Residential Property Operators,144.9523,-37.82539,0,0
-Melbourne Exhibition Centre,Melbourne Exhibition Centre 2 Clarendon Street SOUTH WHARF VIC 3006,Southbank,Other Administrative Services n.e.c.,144.9523,-37.82539,0,0
 The Boatbuilders Yard,1-27 South Wharf Promenade SOUTH WHARF VIC 3006,Southbank,Cafes and Restaurants,144.95341,-37.82429,150,336
 Charlie Lovett,29-65 South Wharf Promenade SOUTH WHARF VIC 3006,Southbank,Cafes and Restaurants,144.9505,-37.82411,76,40
 Plus 5,29-65 South Wharf Promenade SOUTH WHARF VIC 3006,Southbank,Cafes and Restaurants,144.9505,-37.82411,80,60
@@ -2156,7 +2042,6 @@ Akachochin,29-65 South Wharf Promenade SOUTH WHARF VIC 3006,Southbank,Cafes and 
 The General Assembly,29-65 South Wharf Promenade SOUTH WHARF VIC 3006,Southbank,Cafes and Restaurants,144.9505,-37.82411,350,260
 BangPop,29-65 South Wharf Promenade SOUTH WHARF VIC 3006,Southbank,Cafes and Restaurants,144.9505,-37.82411,196,36
 Munich Brau Haus,29-65 South Wharf Promenade SOUTH WHARF VIC 3006,Southbank,"Pubs, Taverns and Bars",144.9505,-37.82411,250,150
-Crown Metropol,Crown Metropol Hotel 57-91 Clarendon Street SOUTHBANK VIC 3006,Southbank,Accommodation,144.95861,-37.82576,0,0
 Mr Hive Kitchen & Bar,Crown Casino Retail Precinct 27-45 Whiteman Street SOUTHBANK VIC 3006,Southbank,Cafes and Restaurants,144.95861,-37.82576,358,0
 Mesh/Tonic Bar,40-56 Queens Bridge Street SOUTHBANK VIC 3006,Southbank,Cafes and Restaurants,144.96001,-37.82399,350,16
 My Goodness Pizza,63-85 Queens Bridge Street SOUTHBANK VIC 3006,Southbank,Takeaway Food Services,144.96137,-37.82383,25,0
@@ -2165,7 +2050,6 @@ QB Cafe,107-127 Queens Bridge Street SOUTHBANK VIC 3006,Southbank,Cafes and Rest
 East By West,133 Queens Bridge Street SOUTHBANK VIC 3006,Southbank,Takeaway Food Services,144.9605,-37.82526,0,8
 Southside Coffee Co,Southbank One 174-184 City Road SOUTHBANK VIC 3006,Southbank,Takeaway Food Services,144.96192,-37.82384,4,16
 Boyd Cafe,207-229 City Road SOUTHBANK VIC 3006,Southbank,Cafes and Restaurants,144.96116,-37.82577,28,0
-Ink Hotel Melbourne Southbank,167-169 City Road SOUTHBANK VIC 3006,Southbank,Accommodation,144.9625,-37.8244,0,0
 Dee Casa,WRAP Residences 133-139 City Road SOUTHBANK VIC 3006,Southbank,Cafes and Restaurants,144.96358,-37.82348,40,0
 Ten BBQ & Hotpot Buffet,141-155 City Road SOUTHBANK VIC 3006,Southbank,Cafes and Restaurants,144.96325,-37.82376,110,0
 Rozas Kitchen,141-155 City Road SOUTHBANK VIC 3006,Southbank,Cafes and Restaurants,144.96325,-37.82376,35,0
@@ -2174,7 +2058,6 @@ Wonder sushi Melbourne,89-91 City Road SOUTHBANK VIC 3006,Southbank,Takeaway Foo
 Southbank Noodle Box,89-91 City Road SOUTHBANK VIC 3006,Southbank,Takeaway Food Services,144.96511,-37.82256,0,6
 Paris by night,89-91 City Road SOUTHBANK VIC 3006,Southbank,Cafes and Restaurants,144.96511,-37.82256,30,0
 Sopranos,89-91 City Road SOUTHBANK VIC 3006,Southbank,Cafes and Restaurants,144.96511,-37.82256,50,0
-Broad Bean Organic Grocer,Triptych Apartments 8-10 Kavanagh Street SOUTHBANK VIC 3006,Southbank,Fruit and Vegetable Retailing,144.96658,-37.82249,0,0
 Saporito Cafe Bar & Grill,Century Tower Apartments 12-16 Kavanagh Street SOUTHBANK VIC 3006,Southbank,Cafes and Restaurants,144.96626,-37.82261,50,18
 Let's Grind,Southpoint Apartments 20-22 Kavanagh Street SOUTHBANK VIC 3006,Southbank,Cafes and Restaurants,144.96583,-37.82281,14,6
 Testing Ground,1-23 City Road SOUTHBANK VIC 3006,Southbank,"Pubs, Taverns and Bars",144.96753,-37.82137,0,50
@@ -2185,7 +2068,6 @@ Botanical Hotel,161-173 Domain Road SOUTH YARRA VIC 3141,South Yarra,Cafes and R
 Gilson,161-173 Domain Road SOUTH YARRA VIC 3141,South Yarra,Cafes and Restaurants,144.9817,-37.83432,42,32
 Bacash,175-177 Domain Road SOUTH YARRA VIC 3141,South Yarra,Cafes and Restaurants,144.98195,-37.8343,100,16
 Domain Brasserie,179-181 Domain Road SOUTH YARRA VIC 3141,South Yarra,Cafes and Restaurants,144.98204,-37.83431,45,20
-Baker D Chirico,183 Domain Road SOUTH YARRA VIC 3141,South Yarra,Bakery Product Manufacturing (Non-factory based),144.98213,-37.83433,0,0
 Ichi Ichi Ku Izakaya,185-189 Domain Road SOUTH YARRA VIC 3141,South Yarra,Cafes and Restaurants,144.98226,-37.83434,22,0
 The Golden Triangle Restaurant,185-189 Domain Road SOUTH YARRA VIC 3141,South Yarra,Cafes and Restaurants,144.98226,-37.83434,60,0
 Entrecote - Paris Steakhouse & Winebar,131-133 Domain Road SOUTH YARRA VIC 3141,South Yarra,Cafes and Restaurants,144.98049,-37.83413,120,30
