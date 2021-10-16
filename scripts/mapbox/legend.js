@@ -7,4 +7,4 @@ link.type = 'text/css';
 
 // append link element to html
 document.getElementById("legend").appendChild(link);
-document.getElementById("title").appendChild(link);
+document.getElementById("filters").appendChild(link);
