@@ -134,6 +134,11 @@ map.on('load', e => {
       .setHTML(('<mu>' + venueName + '</mu><h6><br> <b>Address: </b>' + m_address + 
       '<br><b>Live Music Venue Type: </b>' + type_v + '</h6>'))
       .addTo(map)
+      
+      map.flyTo({
+        center: e.lngLat,
+        zoom: 14
+      });
   });
 
   map.addControl(
