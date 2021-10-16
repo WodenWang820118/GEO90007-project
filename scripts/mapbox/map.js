@@ -46,7 +46,7 @@ map.on('load', e => {
   //?????????not sure, maybe we do not need this function
   map.on('mousemove', e => {
     let venueinfo = map.queryRenderedFeatures(e.point, {
-      layers: ['data-cafes-restaurants-dq0100ver3']
+      layers:['data-cafes-restaurants-dq0100ver3']
     });
     
     if (venueinfo.length > 0) {
@@ -66,10 +66,16 @@ map.on('load', e => {
     map.getCanvas().style.cursor = '';
   });
 
-  // TODO: the click event doesn't work
-  // TODO: the hover effect doesn't work
+  map.on('mouseenter', 'live-music-venues', e => {
+    map.getCanvas().style.cursor = 'pointer';
+  });
+
+  // Change it back to a pan icon when it leaves.
+  map.on('mouseleave', 'live-music-venues', e => {
+    map.getCanvas().style.cursor = '';
+  });
   
-  // to add the pop-up effect when clicking on one of the murder location on map
+  ////Click effects for cafes and restaurants dataset 
   map.on('click', 'data-cafes-restaurants-dq0100ver3', e => {
     // console.log(e.features[0])
     let feature = e.features[0]
@@ -112,6 +118,23 @@ map.on('load', e => {
     });
   });
 
+  //Click effects for live music dataset 
+  map.on('click', 'live-music-venues', e => {
+    let feature = e.features[0]
+    const m_address = feature.properties.venue_address
+    const venueName = feature.properties.venue_name
+    const wbsite = feature.properties.website
+    const type_v = feature.properties.space_type
+    const long = feature.properties.lon
+    const lati = feature.properties.lat
+    const coordin = [long, lati]
+
+    new mapboxgl.Popup()
+      .setLngLat(coordin)
+      .setHTML(('<mu>' + venueName + '</mu><h6><br> <b>Address: </b>' + m_address + 
+      '<br><b>Live Music Venue Type: </b>' + type_v + '</h6>'))
+      .addTo(map)
+  });
 
   map.addControl(
     new MapboxGeocoder({

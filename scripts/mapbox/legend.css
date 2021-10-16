@@ -61,6 +61,7 @@ h2 {
 .mapboxgl-popup-content {
   text-align:calc();
   font-family: 'Arial', sans-serif;
+  font-size: 0.97em;
 }
 
 .mapboxgl-popup-content cafe {
@@ -70,6 +71,7 @@ h2 {
   padding: 10px;
   display: block;
   font-size: 1.15em;
+  font-weight: bold;
 }
 
 .mapboxgl-popup-content ptb {
@@ -79,6 +81,7 @@ h2 {
   padding: 10px;
   display: block;
   font-size: 1.15em;
+  font-weight: bold;
 }
 
 .mapboxgl-popup-content tw {
@@ -88,6 +91,17 @@ h2 {
   padding: 10px;
   display: block;
   font-size: 1.15em;
+  font-weight: bold;
+}
+
+.mapboxgl-popup-content mu {
+  text-align: center;
+  background: #96a888;
+  color: rgb(30, 43, 12);
+  padding: 10px;
+  display: block;
+  font-size: 1.15em;
+  font-weight: bold;
 }
 
 .mapboxgl-popup-content h6 {
