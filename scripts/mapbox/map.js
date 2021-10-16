@@ -45,16 +45,7 @@ map.on('load', e => {
   //HOVER EFFECTS
   //?????????not sure, maybe we do not need this function
   map.on('mousemove', e => {
-    let venueinfo = map.queryRenderedFeatures(e.point, {
-      layers:['data-cafes-restaurants-dq0100ver3']
-    });
-    
-    if (venueinfo.length > 0) {
-      document.querySelector('#info').innerHTML = '<p>' + venueinfo[0].properties.indoor + 
-        '</p><p><em>' + venueinfo[0].properties.outdoor + '</em></p>';
-    } else {
-      document.querySelector('#info').innerHTML = '<p>Move your mouse over a building to view details.</p>';
-    }
+
   });
   // Change the icon to a pointer icon when you mouse over a DOT
   map.on('mouseenter', 'data-cafes-restaurants-dq0100ver3', e => {
@@ -94,7 +85,7 @@ map.on('load', e => {
       new mapboxgl.Popup()
       .setLngLat(coordinates)
       .setHTML(('<cafe>' + venueName + '</cafe><h6><br> <b>Address: </b>' + address + 
-      '<br><b>Seating Capacity: </b>' + seat_total + '<br><b>Type: </b>' + industry + '</h6>'))
+      '<br><b>Seating Capacity: </b>' + seat_total + '<br><b>Type</b>' + industry + '</h6>'))
       .addTo(map)
     }
     else if (industry == 'Pubs, Taverns and Bars'){
@@ -132,9 +123,9 @@ map.on('load', e => {
     new mapboxgl.Popup()
       .setLngLat(coordin)
       .setHTML(('<mu>' + venueName + '</mu><h6><br> <b>Address: </b>' + m_address + 
-      '<br><b>Live Music Venue Type: </b>' + type_v + '</h6>'))
+      '<br><b>Live Music in: </b>' + type_v + '</h6>'))
       .addTo(map)
-      
+
       map.flyTo({
         center: e.lngLat,
         zoom: 14
