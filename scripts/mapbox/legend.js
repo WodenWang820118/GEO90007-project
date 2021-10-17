@@ -8,3 +8,4 @@ link.type = 'text/css';
 // append link element to html
 document.getElementById("legend").appendChild(link);
 document.getElementById("filters").appendChild(link);
+document.getElementById("buttons").appendChild(link);
