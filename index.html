@@ -28,8 +28,9 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Bellota:wght@300&display=swap" rel="stylesheet">
-
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.5.0/chart.min.js"></script>
+    <!-- Splider, used for making slides -->
+    <link rel="stylesheet" href="node_modules/@splidejs/splide/dist/css/splide.min.css">
+    <script src="node_modules/@splidejs/splide/dist/js/splide.min.js"></script>
 </head>
 <body>
   <!-- Load the `mapbox-gl-geocoder` plugin. -->
@@ -88,16 +89,18 @@
   </div>
 
   <!-- Bootstrap 5 with two columns -->
-  <!-- place the map on the left; description on the right -->
+  <!-- place the image on the left; description on the right -->
   <!-- it's responsive -->
-  <div class="container-fluid" style="margin-top: 132px; margin-bottom: 132px; position: relative; padding: 0 5%;">
+  <div class="container" style="margin-top: 132px; margin-bottom: 132px; position: relative; padding: 0 5%;">
     <div class="row">
       <div class="col-lg-6">
-        <img src="assets/town-hall.jpg" alt="town-hall-center" width="650;">
+        <img src="assets/town-hall.jpg" alt="town-hall-center" class="img-fluid">
       </div>
       <div class="col-lg-6">
         <div id="main"></div>
-        <script src="scripts/content/main.js"></script>
+        <script type="module" src="scripts/content/main.js"></script>
+        
+        
       </div>
     </div>
   </div>

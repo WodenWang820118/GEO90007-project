@@ -4,13 +4,11 @@ body {
 }
 
 .introduction {
-  padding-right: 40px;
   text-align: justify;
 }
 
 @media only screen and (max-width: 600px) {
   .introduction {
-    padding-right: 40px;
     text-align: justify;
   }
 }
