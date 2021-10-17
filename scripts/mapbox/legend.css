@@ -129,30 +129,6 @@ h2 {
   cursor: pointer;
 }
 
-#central:hover{
-  box-shadow:inset 0px 0px 0px 2px #7a7a7a;
-  background-color: #a8a8a8;
-}
-
-#east:hover{
-  box-shadow:inset 0px 0px 0px 2px #7a7a7a;
-  background-color: #a8a8a8;
-}
-
-#north:hover{
-  box-shadow:inset 0px 0px 0px 2px #7a7a7a;
-  background-color: #a8a8a8;
-}
-
-#south:hover{
-  box-shadow:inset 0px 0px 0px 2px #7a7a7a;
-  background-color: #a8a8a8;
-}
-
-#west:hover{
-  box-shadow:inset 0px 0px 0px 2px #7a7a7a;
-  background-color: #a8a8a8;
-}
 
 
 
