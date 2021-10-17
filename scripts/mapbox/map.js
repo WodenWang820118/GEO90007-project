@@ -5,7 +5,8 @@ var map = new mapboxgl.Map({
   style: 'mapbox://styles/group13-iv/ckutkaoq4437117pih94cjm9n'
 });
 
-map.on('load', e => {
+
+map.on('load', () => {
   let layers = [{
       "name": "Cafes & Restaurants",
       "color": "#f3afaf"
@@ -18,12 +19,13 @@ map.on('load', e => {
       "name": "Takeaway Food Services",
       "color": "#88b5d3"
     },
-    {
-      "name": "Live music Venue",
-      "color":"#99ad8a"
-    }
- 
+    // {
+    //   "name": "Live music Venue",
+    //   "color":"#99ad8a"
+    // }
   ];
+
+
   //add legend to the map
   let legend = document.querySelector('#legend');
 
@@ -66,7 +68,7 @@ map.on('load', e => {
     map.getCanvas().style.cursor = '';
   });
   
-  ////Click effects for cafes and restaurants dataset 
+  ////Click effects for cafes and restaurants dataset
   map.on('click', 'data-cafes-restaurants-dq0100ver3', e => {
     // console.log(e.features[0])
     let feature = e.features[0]
@@ -135,7 +137,6 @@ map.on('load', e => {
   //TODO: Layers ? 
   //https://docs.mapbox.com/mapbox-gl-js/api/map/#map#addlayer
 
-
   map.addControl(
     new MapboxGeocoder({
       accessToken: mapboxgl.accessToken,
@@ -154,6 +155,57 @@ map.on('load', e => {
   map.addControl(new mapboxgl.NavigationControl());
 
 });
+
+map.on('idle', () => {
+  // If these two layers were not added to the map, abort
+  if (!map.getLayer('data-cafes-restaurants-dq0100ver3') || !map.getLayer('live-music-venues')) {
+    return;
+  }
+
+  // Enumerate ids of the layers.
+  const toggleableLayerIds = ['data-cafes-restaurants-dq0100ver3', 'live-music-venues'];
+  for (const id of toggleableLayerIds) {
+    // Skip layers that already have a button set up.
+    if (document.getElementById(id)) {
+      continue;
+    }
+
+    // Create a link.
+    const link = document.createElement('a');
+    link.id = id;
+    link.href = '#';
+    link.textContent = id;
+    link.className = 'active';
+
+    // Show or hide layer when the toggle is clicked.
+    link.onclick = function (e) {
+      const clickedLayer = this.textContent;
+      e.preventDefault();
+      e.stopPropagation();
+
+      const visibility = map.getLayoutProperty(
+        clickedLayer,
+        'visibility'
+      );
+
+      // Toggle layer visibility by changing the layout object's visibility property.
+      if (visibility === 'visible') {
+        map.setLayoutProperty(clickedLayer, 'visibility', 'none');
+        this.className = '';
+      } else {
+          this.className = 'active';
+          map.setLayoutProperty(
+          clickedLayer,
+          'visibility',
+          'visible'
+        );
+      }
+    }
+    const layers = document.getElementById('menu');
+    layers.appendChild(link);
+
+  }
+})
 
 //The following function defines the button effects.
 //when click on 'central', 'north'...etc. the map will adjust the coordinates to that suburb

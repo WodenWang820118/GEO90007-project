@@ -43,22 +43,29 @@
   <!-- <div id="sidebar">
     <script src="scripts/content/sidebar.js"></script>
   </div> -->
-  <div class="container-fluid" style="position: relative; margin-bottom: 100px; margin-top: 119px;">
+
+  <!-- <div class="container-fluid" style="position: relative; margin-bottom: 100px; margin-top: 119px;">
     <div class="row">
       <div class="col-7">
         <div id="intro">
           <script src="scripts/introduction/intro.js"></script>
         </div>
       </div>
-      <!-- <div class="col-1"></div> -->
       <div class="col-5 text-col1">
         <p>What are you looking for?</p>
       </div>
     </div>
-  </div>
+  </div> -->
   
   <!-- mapbox container styles can be only modified in html inline styles -->
-  <div class="mapbox-container" style="position: relative; padding-left: 106px; padding-right: 147px;">
+  <div class="mapbox-container"
+    style="position: relative;
+           padding-left: 5%;
+           padding-right: 5%;
+           margin-top: 10%">
+    <nav id="menu">
+      <script src="scripts/mapbox/menu.js"></script>
+    </nav>
     <div id="map"
       style="width:100%;
             height:600px;
