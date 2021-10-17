@@ -1,0 +1,36 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Users\alex0\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js add @splide/splide
+
+PATH: 
+  C:\Program Files\AdoptOpenJDK\jdk-16.0.1.9-hotspot\bin;C:\Python39\Scripts\;C:\Python39\;C:\Users\alex0\AppData\Local\Programs\Python\Python37;C:\Users\alex0\AppData\Local\Programs\Python\Python37\Scripts;C:\Users\alex0\AppData\Roaming\Python\Python37\Scripts;C:\Users\alex0\AppData\Local\Programs\Python\Python37\Lib\site-packages;C:\Tools\Graphviz\bin;C:\Program Files\Java\jre1.8.0_251\bin;C:\Program Files\Java\jdk-14.0.1\bin;C:\Program Files (x86)\GtkSharp\2.12\bin;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Tools\apache-zookeeper-3.6.1-bin\bin;C:\Tools\apache-maven-3.6.3\bin\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\MinGW\bin;C:\Program Files\MongoDB\Server\4.4\bin;C:\Program Files\swipl\bin;C:\ProgramData\NVIDIA Corporation\CUDA Samples\v11.2\bin;C:\Program Files (x86)\NoteBook FanControl\;C:\Users\alex0\AppData\Local\Programs\Python\Python39\Scripts\;C:\Users\alex0\AppData\Local\Programs\Python\Python39\;C:\Users\alex0\AppData\Local\Programs\Python\Python37;C:\Users\alex0\AppData\Local\Programs\Python\Python37\Scripts;C:\Users\alex0\AppData\Roaming\Python\Python37\Scripts;C:\Users\alex0\AppData\Local\Programs\Python\Python37\Lib\site-packages;C:\Tools\Graphviz\bin;C:\Program Files\Graphviz\bin;C:\Tools\apache-zookeeper-3.6.1-bin;C:\Program Files\Java\jdk-14.0.1\bin;D:\VSCode\Microsoft VS Code\bin;C:\WINDOWS\system32;C:\Tools\apache-maven-3.6.3\bin;D:\Intellij\IntelliJ IDEA Community Edition 2020.2.1\bin;;C:\Users\alex0\AppData\Roaming\npm;C:\Program Files\heroku\bin;C:\MinGW\bin;C:\Program Files\MongoDB\Server\4.4\bin;C:\ProgramData\NVIDIA Corporation\CUDA Samples\v11.2\bin;C:\Users\alex0\AppData\Roaming\cabal\bin;C:\tools\ghc-9.0.1\bin;C:\tools\msys64
+
+Yarn version: 
+  1.22.10
+
+Node version: 
+  14.15.1
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: https://registry.yarnpkg.com/@splide%2fsplide: Not found
+      at Request.params.callback [as _callback] (C:\Users\alex0\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:66988:18)
+      at Request.self.callback (C:\Users\alex0\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:140662:22)
+      at Request.emit (events.js:315:20)
+      at Request.<anonymous> (C:\Users\alex0\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:141634:10)
+      at Request.emit (events.js:315:20)
+      at IncomingMessage.<anonymous> (C:\Users\alex0\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:141556:12)
+      at Object.onceWrapper (events.js:421:28)
+      at IncomingMessage.emit (events.js:327:22)
+      at endReadableNT (_stream_readable.js:1327:12)
+      at processTicksAndRejections (internal/process/task_queues.js:80:21)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
