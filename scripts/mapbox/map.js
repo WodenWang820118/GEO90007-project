@@ -50,26 +50,26 @@ map.on('load', () => {
 
   });
   // Change the icon to a pointer icon when you mouse over a DOT
-  map.on('mouseenter', 'data-cafes-restaurants-dq0100ver3', e => {
+  map.on('mouseenter', 'Dining-Out', e => {
     map.getCanvas().style.cursor = 'pointer';
   });
 
   // Change it back to a pan icon when it leaves.
-  map.on('mouseleave', 'data-cafes-restaurants-dq0100ver3', e => {
+  map.on('mouseleave', 'Dining-Out', e => {
     map.getCanvas().style.cursor = '';
   });
 
-  map.on('mouseenter', 'live-music-venues', e => {
+  map.on('mouseenter', 'Live-Music', e => {
     map.getCanvas().style.cursor = 'pointer';
   });
 
   // Change it back to a pan icon when it leaves.
-  map.on('mouseleave', 'live-music-venues', e => {
+  map.on('mouseleave', 'Live-Music', e => {
     map.getCanvas().style.cursor = '';
   });
   
   ////Click effects for cafes and restaurants dataset
-  map.on('click', 'data-cafes-restaurants-dq0100ver3', e => {
+  map.on('click', 'Dining-Out', e => {
     // console.log(e.features[0])
     let feature = e.features[0]
     console.log(feature.properties)
@@ -158,12 +158,12 @@ map.on('load', () => {
 
 map.on('idle', () => {
   // If these two layers were not added to the map, abort
-  if (!map.getLayer('data-cafes-restaurants-dq0100ver3') || !map.getLayer('live-music-venues')) {
+  if (!map.getLayer('Dining-Out') || !map.getLayer('Live-Music')) {
     return;
   }
 
   // Enumerate ids of the layers.
-  const toggleableLayerIds = ['data-cafes-restaurants-dq0100ver3', 'live-music-venues'];
+  const toggleableLayerIds = ['Dining-Out', 'Live-Music'];
   for (const id of toggleableLayerIds) {
     // Skip layers that already have a button set up.
     if (document.getElementById(id)) {
