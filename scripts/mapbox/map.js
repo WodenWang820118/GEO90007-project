@@ -160,7 +160,7 @@ map.on('load', e => {
 function flytoCentral() {
   // Move the map view to central
   map.flyTo({
-    center: [-37.8166373,144.9632386],
+    center: [144.9632386,-37.8166373],
     zoom: 13,
     essential: true
   });
@@ -169,7 +169,7 @@ function flytoCentral() {
 function flytoNorth() {
   // Move the map view to central
   map.flyTo({
-    center: [-37.7968057,144.9381133],
+    center: [144.9381133, -37.7968057],
     zoom: 13,
     essential: true
   });
@@ -178,7 +178,7 @@ function flytoNorth() {
 function flytoEast() {
   // Move the map view to central
   map.flyTo({
-    center: [-37.815423,144.972592],
+    center: [144.972592, -37.815423],
     zoom: 13,
     essential: true
   });
@@ -187,7 +187,7 @@ function flytoEast() {
 function flytoSouth() {
   // Move the map view to central
   map.flyTo({
-    center: [-37.8340578,144.9473004],
+    center: [144.9473004,-37.8340578],
     zoom: 13,
     essential: true
   });
@@ -196,7 +196,7 @@ function flytoSouth() {
 function flytoWest() {
   // Move the map view to central
   map.flyTo({
-    center: [-37.8105382,144.9221958],
+    center: [144.9221958,-37.8105382,],
     zoom: 13,
     essential: true
   });
