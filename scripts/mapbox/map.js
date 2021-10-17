@@ -43,7 +43,7 @@ map.on('load', e => {
   }
 
   //HOVER EFFECTS
-  //?????????not sure, maybe we do not need this function
+  //?????????not sure, maybe we do not need this function:'mousemove'
   map.on('mousemove', e => {
 
   });
@@ -105,7 +105,7 @@ map.on('load', e => {
     //add effects when click on a venue
     map.flyTo({
       center: e.lngLat,
-      zoom: 14
+      zoom: 13
     });
   });
 
@@ -128,9 +128,13 @@ map.on('load', e => {
 
       map.flyTo({
         center: e.lngLat,
-        zoom: 14
+        zoom: 13
       });
   });
+
+  //TODO: Layers ? 
+  //https://docs.mapbox.com/mapbox-gl-js/api/map/#map#addlayer
+
 
   map.addControl(
     new MapboxGeocoder({
@@ -150,3 +154,50 @@ map.on('load', e => {
   map.addControl(new mapboxgl.NavigationControl());
 
 });
+
+//The following function defines the button effects.
+//when click on 'central', 'north'...etc. the map will adjust the coordinates to that suburb
+function flytoCentral() {
+  // Move the map view to central
+  map.flyTo({
+    center: [-37.8166373,144.9632386],
+    zoom: 13,
+    essential: true
+  });
+}
+
+function flytoNorth() {
+  // Move the map view to central
+  map.flyTo({
+    center: [-37.7968057,144.9381133],
+    zoom: 13,
+    essential: true
+  });
+}
+
+function flytoEast() {
+  // Move the map view to central
+  map.flyTo({
+    center: [-37.815423,144.972592],
+    zoom: 13,
+    essential: true
+  });
+}
+
+function flytoSouth() {
+  // Move the map view to central
+  map.flyTo({
+    center: [-37.8340578,144.9473004],
+    zoom: 13,
+    essential: true
+  });
+}
+
+function flytoWest() {
+  // Move the map view to central
+  map.flyTo({
+    center: [-37.8105382,144.9221958],
+    zoom: 13,
+    essential: true
+  });
+}

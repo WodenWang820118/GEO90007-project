@@ -68,10 +68,16 @@
     <div class="map-overlay" id="legend"></div>
     <div class="map-overlay" id="filters">
       <h2 id="title">Your local guide to dining, life and entertainment in City of Melbourne.
-        <br> <b>Click to switch suburb </b></h2>
+        <br><br><b>Click to switch suburb </b><br><br></h2>
         <div id="buttons"> 
+          <a id="central" class="grid" onClick="flytoCentral()">Central</a>
+          <a id="north" class="grid" onClick="flytoNorth()">North</a>
+          <a id="east" class="grid" onClick="flytoEast()">East</a>
+          <a id="south" class="grid" onClick="flytoSouth()">South</a>
+          <a id="west" class="grid" onClick="flytoWest()">West</a>
         </div>
-  </div>
+    </div>
+    <nav id="layers"></nav>
     <script src="scripts/mapbox/legend.js"></script>
   </div>
 

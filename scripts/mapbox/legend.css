@@ -4,7 +4,7 @@
 */
 #legend {
   position: absolute;
-  background-color: rgba(202, 214, 183, 0.671);
+  background-color: rgba(197, 214, 183, 0.671);
   bottom: 10px;
   left: 123px;
   padding: 10px 5px 5px 5px;
@@ -107,12 +107,53 @@ h2 {
   line-height: 16px;
   height: 80px;
   margin-bottom: 46px;
-  width: 350px;
-  height: 220px;
+  width: 550px;
+  height: 140px;
   z-index: 1;
   border-radius: 5px;
   color: rgb(33, 48, 12);
 }
+
+.grid {
+  position: relative;
+  background-color: rgba(255, 255, 255, 0.8);
+  box-shadow: 0 2px 2px rgba(216, 235, 148, 0.1);
+  width: 85px;
+  height: 20px;
+  border-radius: 20px;
+  padding: 11px;
+  font-size: 14px;
+  text-align: center;
+  color: #474747;
+  transition: 0.06s ease-in-out;
+  cursor: pointer;
+}
+
+#central:hover{
+  box-shadow:inset 0px 0px 0px 2px #7a7a7a;
+  background-color: #a8a8a8;
+}
+
+#east:hover{
+  box-shadow:inset 0px 0px 0px 2px #7a7a7a;
+  background-color: #a8a8a8;
+}
+
+#north:hover{
+  box-shadow:inset 0px 0px 0px 2px #7a7a7a;
+  background-color: #a8a8a8;
+}
+
+#south:hover{
+  box-shadow:inset 0px 0px 0px 2px #7a7a7a;
+  background-color: #a8a8a8;
+}
+
+#west:hover{
+  box-shadow:inset 0px 0px 0px 2px #7a7a7a;
+  background-color: #a8a8a8;
+}
+
 
 
 
