@@ -7,48 +7,42 @@ var map = new mapboxgl.Map({
 
 
 map.on('load', () => {
-  let layers = [{
-      "name": "Cafes & Restaurants",
-      "color": "#f3afaf"
-    },
-    {
-      "name": "Pubs, Taverns & Bars",
-      "color": "#f9b22f"
-    },
-    {
-      "name": "Takeaway Food Services",
-      "color": "#88b5d3"
-    },
-    // {
-    //   "name": "Live music Venue",
-    //   "color":"#99ad8a"
-    // }
-  ];
 
+  //HOVER EFFECTS for cafes and restaurants layer #hover
+  map.on('mousemove', 'Dining-Out', e => {
+    let dininginfo = map.queryRenderedFeatures(e.point, {
+      layers: ['Dining-Out']
+    
+    });
 
-  //add legend to the map
-  let legend = document.querySelector('#legend');
-
-  for (let layer of layers) {
-    let item = document.createElement('div');
-
-    let key = document.createElement('span');
-    key.classList.add('legend-key');
-    key.style.backgroundColor = layer.color;
-
-    let value = document.createElement('span');
-    value.innerHTML = layer.name;
-
-    item.appendChild(key);
-    item.appendChild(value);
-    legend.appendChild(item);
-  }
-
-  //HOVER EFFECTS
-  //?????????not sure, maybe we do not need this function:'mousemove'
-  map.on('mousemove', e => {
+    if (dininginfo.length > 0) {
+      document.querySelector('#info').innerHTML = '<din>' +dininginfo[0].properties.industry + '<br><b>' + dininginfo[0].properties.name + 
+          '</b><br></din><h7><br> <b>Indoor seats: </b>' + '<b>' + dininginfo[0].properties.indoor + 
+          '</b><br><b>Outdoor seats: </b>'+ dininginfo[0].properties.outdoor +'</h7>';
+    } else {
+      document.querySelector('#info').innerHTML = '<p>Move your mouse to view venue details.</p>';
+    }
 
   });
+
+  //HOVER EFFECTS for Live-Music layer
+  map.on('mousemove', 'Live-Music', e => {
+    let musicinfo = map.queryRenderedFeatures(e.point, {
+      layers: ['Live-Music']
+    
+    });
+
+    if (musicinfo.length > 0) {
+    document.querySelector('#info').innerHTML = '<lmu>Live music venue : ' + '<br><b>'+ musicinfo[0].properties.venue_name + 
+        '</b><br></lmu><h7><br> <b>Website: </b>' + musicinfo[0].properties.website + '</h7>';
+    }
+    else {
+      document.querySelector('#info').innerHTML = '<p>Move your mouse over a building to view details.</p>';
+    }
+
+  });
+
+
   // Change the icon to a pointer icon when you mouse over a DOT
   map.on('mouseenter', 'Dining-Out', e => {
     map.getCanvas().style.cursor = 'pointer';
@@ -87,21 +81,21 @@ map.on('load', () => {
       new mapboxgl.Popup()
       .setLngLat(coordinates)
       .setHTML(('<cafe>' + venueName + '</cafe><h6><br> <b>Address: </b>' + address + 
-      '<br><b>Seating Capacity: </b>' + seat_total + '<br><b>Type</b>' + industry + '</h6>'))
+      '<br><b>Seating Capacity: </b>' + seat_total + '</h6>'))
       .addTo(map)
     }
     else if (industry == 'Pubs, Taverns and Bars'){
       new mapboxgl.Popup()
       .setLngLat(coordinates)
       .setHTML(('<ptb>' + venueName + '</ptb><h6><br> <b>Address: </b>' + address + 
-      '<br><b>Seating Capacity: </b>' + seat_total + '<br><b>Type: </b>' + industry + '</h6>'))
+      '<br><b>Seating Capacity: </b>' + seat_total + '</h6>'))
       .addTo(map)
     }
     else if (industry == 'Takeaway Food Services'){
       new mapboxgl.Popup()
       .setLngLat(coordinates)
       .setHTML(('<tw>' + venueName + '</tw><h6><br> <b>Address: </b>' + address + 
-      '<br><b>Seating Capacity: </b>' + seat_total + '<br><b>Type: </b>' + industry + '</h6>'))
+      '<br><b>Seating Capacity: </b>' + seat_total + '</h6>'))
       .addTo(map)
     }
     //add effects when click on a venue
@@ -112,11 +106,11 @@ map.on('load', () => {
   });
 
   //Click effects for live music dataset 
-  map.on('click', 'live-music-venues', e => {
+  map.on('click', 'Live-Music', e => {
     let feature = e.features[0]
     const m_address = feature.properties.venue_address
     const venueName = feature.properties.venue_name
-    const wbsite = feature.properties.website
+    //const wbsite = feature.properties.website
     const type_v = feature.properties.space_type
     const long = feature.properties.lon
     const lati = feature.properties.lat

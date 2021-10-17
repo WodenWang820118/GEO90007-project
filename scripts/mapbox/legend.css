@@ -2,26 +2,58 @@
    that the absolute position of the legend will align
    according to the parent container
 */
-#legend {
+#hover {
   position: absolute;
   background-color: rgba(197, 214, 183, 0.671);
-  bottom: 10px;
-  left: 123px;
+  top: 10px;
+  left: 60px;
   padding: 10px 5px 5px 5px;
   shape-margin: 1%;
   box-shadow: 0 1px 2px rgba(0, 0, 0, 0);
   line-height: 17px;
-  height: 85px;
-  width: 220px;
+  height: 110px;
+  width: 400px;
   z-index: 1;
   border-radius: 5px;
   margin-bottom: 50px;
   color: rgb(33, 48, 12);
 }
 
+h7 {
+  margin: 10px;
+  font-size: 0.9em;
+  text-align: left;
+}
+
+h6 {
+  margin: 10px;
+  font-size: 0.9em;
+  text-align: left;
+}
+
 h2 {
   margin: 10px;
   font-size: 0.9em;
+  text-align: left;
+}
+
+#info {
+  margin: 10px;
+  font-size: 1em;
+  text-align: left;
+
+}
+
+#info din {
+  margin: 10px;
+  font-size: 1em;
+  text-align: left;
+
+}
+
+#hover p {
+  margin: 10px;
+  font-size: 1em;
   text-align: left;
 }
 
