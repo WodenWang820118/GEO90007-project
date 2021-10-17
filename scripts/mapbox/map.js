@@ -209,8 +209,7 @@ map.on('idle', () => {
 
 //The following function defines the button effects.
 //when click on 'central', 'north'...etc. the map will adjust the coordinates to that suburb
-function flytoCentral() {
-  
+function flytoCentral(e) {
   map.flyTo({
     center: [144.9632386,-37.8166373],
     zoom: 14.19,
@@ -218,8 +217,7 @@ function flytoCentral() {
   });
 }
 
-function flytoNorth() {
-  
+function flytoNorth(e) {
   map.flyTo({
     center: [144.9381133, -37.7968057],
     zoom: 14.19,
@@ -227,8 +225,7 @@ function flytoNorth() {
   });
 }
 
-function flytoEast() {
- 
+function flytoEast(e) {
   map.flyTo({
     center: [144.972592, -37.815423],
     zoom: 14.19,
@@ -236,8 +233,7 @@ function flytoEast() {
   });
 }
 
-function flytoSouth() {
-  
+function flytoSouth(e) {
   map.flyTo({
     center: [144.9473004,-37.8340578],
     zoom: 14.19,
@@ -245,8 +241,7 @@ function flytoSouth() {
   });
 }
 
-function flytoWest() {
-  
+function flytoWest(e) {
   map.flyTo({
     center: [144.9221958,-37.8105382,],
     zoom: 14.19,

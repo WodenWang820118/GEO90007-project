@@ -44,19 +44,6 @@
   <!-- <div id="sidebar">
     <script src="scripts/content/sidebar.js"></script>
   </div> -->
-
-  <!-- <div class="container-fluid" style="position: relative; margin-bottom: 100px; margin-top: 119px;">
-    <div class="row">
-      <div class="col-7">
-        <div id="intro">
-          <script src="scripts/introduction/intro.js"></script>
-        </div>
-      </div>
-      <div class="col-5 text-col1">
-        <p>What are you looking for?</p>
-      </div>
-    </div>
-  </div> -->
   
   <!-- mapbox container styles can be only modified in html inline styles -->
   <div class="mapbox-container"
@@ -76,12 +63,13 @@
     <div class="map-overlay" id="legend"></div>
     <div class="map-overlay" id="filters">
       <h2 id="title">Click to switch suburb </b><br><br></h2>
-        <div id="buttons"> 
-          <a id="central" class="grid" onClick="flytoCentral()">Central</a>
-          <a id="north" class="grid" onClick="flytoNorth()">North</a>
-          <a id="east" class="grid" onClick="flytoEast()">East</a>
-          <a id="south" class="grid" onClick="flytoSouth()">South</a>
-          <a id="west" class="grid" onClick="flytoWest()">West</a>
+        <div id="buttons">
+          <!-- send the event back to the functions -->
+          <a id="central" class="grid" onClick="flytoCentral(event); setAreaPic(event)">Central</a>
+          <a id="north" class="grid" onClick="flytoNorth(event); setAreaPic(event)">North</a>
+          <a id="east" class="grid" onClick="flytoEast(event); setAreaPic(event)">East</a>
+          <a id="south" class="grid" onClick="flytoSouth(event); setAreaPic(event)">South</a>
+          <a id="west" class="grid" onClick="flytoWest(event); setAreaPic(event)">West</a>
         </div>
     </div>
     <nav id="layers"></nav>
@@ -94,13 +82,20 @@
   <div class="container" style="margin-top: 132px; margin-bottom: 132px; position: relative; padding: 0 5%;">
     <div class="row">
       <div class="col-lg-6">
-        <img src="assets/town-hall.jpg" alt="town-hall-center" class="img-fluid">
+        <div id="main-pic">
+          <!-- use the splide package to incorporate images -->
+          <div class="splide">
+            <div class="splide__track">
+              <!-- manipulate the innerHTML in the main-pic.js -->
+              <div id="pic-list" class="splide__list"></div>
+              <script src="scripts/content/main-pic.js"></script>
+            </div>
+          </div>
+        </div>
       </div>
       <div class="col-lg-6">
         <div id="main"></div>
-        <script type="module" src="scripts/content/main.js"></script>
-        
-        
+        <script src="scripts/content/main.js"></script>
       </div>
     </div>
   </div>
