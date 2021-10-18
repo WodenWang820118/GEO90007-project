@@ -39,3 +39,11 @@
 #menu a.active:hover {
   background: #ceda80;
 }
+
+.mapboxgl-ctrl-attrib a {
+  display: none;
+}
+
+a.mapboxgl-ctrl-logo {
+  display: none;
+}
