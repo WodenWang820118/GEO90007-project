@@ -17,19 +17,19 @@ body, html {
 
 .header-text-block {
   position: absolute;
-  bottom: 105px;
+  bottom: 50px;
   font-size: 3rem;
   z-index: 20;
   width: 1257px;
-  height: 1027px;
-  padding: 190px 19px 237px 106px;
+  height: 800px;
+  padding-top: 10%;
   background-color: rgba(255, 254, 254, 0.8);
 }
 
 .header-text {
   position: absolute;
   top: 190px;
-  left: 106px;
+  left: 70px;
   right: 19px;
   bottom: 237px;
   font-family: 'Bellota';
@@ -41,6 +41,7 @@ body, html {
   letter-spacing: normal;
   text-align: left;
   color: #988686;
+  line-height: 1.5;
 }
 
 @media only screen and (max-width: 600px) {

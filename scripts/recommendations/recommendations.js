@@ -34,12 +34,24 @@ data.forEach(element => {
           <img src="assets/recommendations/${name}.jpg" class="img-fluid">
         </div>
         <div class="col-lg-6">
-          <p> ${name} </p>
-          <p> Location: ${location}</p>
-          <p> Dietary Options: ${dietary}</p>
+          <p> <strong>${name}</strong> </p>
+          <p> <strong>Location:</strong> ${location}</p>
+          <p> <strong>Dietary Options:</strong> ${dietary}</p>
         </div>
       </div>
     </div>
     </br>
   `
 });
+
+// load up external CSS file
+var link = document.createElement('link');
+
+// set properties of link tag
+// the CSS path must be the relative path of the root directory
+link.href = 'scripts/recommendations/recommendations.css';
+link.rel = 'stylesheet';
+link.type = 'text/css';
+
+// append link element to html
+document.getElementById("recommendations").appendChild(link);

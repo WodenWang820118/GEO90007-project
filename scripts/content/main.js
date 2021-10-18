@@ -11,8 +11,6 @@ content.innerHTML +=
 </div>
 `
 
-// new Splide('.introduction').mount()
-
 // load up external CSS file
 var link = document.createElement('link');
 
