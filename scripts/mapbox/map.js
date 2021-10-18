@@ -101,7 +101,7 @@ map.on('load', () => {
     //add effects when click on a venue
     map.flyTo({
       center: e.lngLat,
-      zoom: 13
+      zoom: 16
     });
   });
 
@@ -124,7 +124,7 @@ map.on('load', () => {
 
       map.flyTo({
         center: e.lngLat,
-        zoom: 13
+        zoom: 16
       });
   });
 
