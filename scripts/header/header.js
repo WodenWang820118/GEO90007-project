@@ -5,11 +5,11 @@ header.innerHTML +=
   <img id="header-pic" src="assets/flinder_railway.jpg" alt="header-image" />
   <div class="header-text-block">
     <div class="header-text">
-      <p>Sweet queen-city of the golden south
-      You have known nothing though
-      Find the truth by your own
-      through the finger type what you thought
-      and thus you will find the soul.</p>
+      <p>Sweet queen-city of the golden south</p>
+      <p>You have known nothing though</p>
+      <p>Find the truth by your own</p>
+      <p>through the finger type what you thought<p>
+      <p>and thus you will find the soul.</p>
     </div>
   </div>
 </div>

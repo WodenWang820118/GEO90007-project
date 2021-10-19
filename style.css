@@ -1,0 +1,18 @@
+/* The global CSS for the style in the index.html
+  or the style doesn't belong any component
+*/
+
+.slogan {
+  padding-left:7%;
+  padding-top: 5%;
+  font-family: 'Bellota';
+  font-size: 60px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.33;
+  letter-spacing: 18px;
+  text-align: left;
+  color: #6a6161;
+  margin-bottom: 20px;
+}

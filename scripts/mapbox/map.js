@@ -19,8 +19,6 @@ map.on('load', () => {
       document.querySelector('#info').innerHTML = '<din>' +dininginfo[0].properties.industry + '<br><b>' + dininginfo[0].properties.name + 
           '</b><br></din><h7><br> <b>Indoor seats: </b>' + '<b>' + dininginfo[0].properties.indoor + 
           '</b><br><b>Outdoor seats: </b>'+ dininginfo[0].properties.outdoor +'</h7>';
-    } else {
-      document.querySelector('#info').innerHTML = '<p>Move your mouse to view venue details.</p>';
     }
 
   });
@@ -35,9 +33,6 @@ map.on('load', () => {
     if (musicinfo.length > 0) {
     document.querySelector('#info').innerHTML = '<lmu>Live music venue : ' + '<br><b>'+ musicinfo[0].properties.venue_name + 
         '</b><br></lmu><h7><br> <b>Website: </b>' + musicinfo[0].properties.website + '</h7>';
-    }
-    else {
-      document.querySelector('#info').innerHTML = '<p>Move your mouse over a building to view details.</p>';
     }
 
   });

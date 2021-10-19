@@ -1,25 +1,44 @@
+/************************ bottom-left filters ************************/
 #menu {
   background: #fff;
   position: absolute;
   z-index: 1;
-  top: 150px;
-  right: 65px;
-  border-radius: 5px;
-  width: 90px;
+  bottom: 0px;
+  left: 5%;
+  width: 269px;
   border: 1px solid rgba(0, 0, 0, 0.4);
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Bellota';
+}
+
+#Live-Music {
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1;
+  letter-spacing: normal;
+  background-color: rgba(157, 172, 141, 0.88);
+  color: #fffafa;
+}
+
+#Dining-Out {
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1;
+  letter-spacing: normal;
+  background-color: rgba(239, 180, 77, 0.88);
+  color: #fffafa;
 }
    
 #menu a {
-  font-size: 13px;
-  color: #404040;
+  font-size: 20px;
   display: block;
   margin: 0;
   padding: 0;
   padding: 10px;
   text-decoration: none;
   border-bottom: 1px solid rgba(0, 0, 0, 0.25);
-  text-align: center;
+  text-align: left;
 }
   
 #menu a:last-child {
@@ -32,8 +51,8 @@
 }
   
 #menu a.active {
-  background-color: #425a0b9f;
-  color: #273506;
+  background-color: white;
+  color: black;
 }
   
 #menu a.active:hover {

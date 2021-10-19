@@ -31,6 +31,8 @@
     <!-- Splider, used for making slides -->
     <link rel="stylesheet" href="node_modules/@splidejs/splide/dist/css/splide.min.css">
     <script src="node_modules/@splidejs/splide/dist/js/splide.min.js"></script>
+    <!-- custom glboal CSS -->
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
   <!-- Load the `mapbox-gl-geocoder` plugin. -->
@@ -40,13 +42,17 @@
   <div id="header" style="position: relative;">
     <script src="scripts/header/header.js"></script>
   </div>
+
+  <div class="slogan">
+    <p>A Twist At Every Turn</p>
+    <p>- Find Your Way Today</p>
+  </div>
   
   <!-- mapbox container styles can be only modified in html inline styles -->
   <div class="mapbox-container"
     style="position: relative;
            padding-left: 5%;
-           padding-right: 5%;
-           margin-top: 16%">
+           padding-right: 5%;">
     <nav id="menu">
       <script src="scripts/mapbox/menu.js"></script>
     </nav>
@@ -63,14 +69,16 @@
       </div>
     </div>
     <div class="map-overlay" id="filters">
-      <h2 id="title">Click to switch suburb </b><br><br></h2>
-        <div id="buttons">
-          <!-- send the event back to the functions -->
-          <a id="central" class="grid" onClick="flytoCentral(event); setAreaPic(event)">Central</a>
-          <a id="north" class="grid" onClick="flytoNorth(event); setAreaPic(event)">North</a>
-          <a id="east" class="grid" onClick="flytoEast(event); setAreaPic(event)">East</a>
-          <a id="south" class="grid" onClick="flytoSouth(event); setAreaPic(event)">South</a>
-          <a id="west" class="grid" onClick="flytoWest(event); setAreaPic(event)">West</a>
+      <!-- <h2 id="title">Click to switch suburb </b><br><br></h2> -->
+        <div class="control-block">
+          <div id="buttons">
+            <!-- send the event back to the functions -->
+            <a id="central" class="grid" onClick="flytoCentral(event); setAreaPic(event)">C<u>ENTER&nbsp;</u></a>
+            <a id="north" class="grid" onClick="flytoNorth(event); setAreaPic(event)">N<u>ORTH&nbsp;&nbsp;&nbsp;</u></a>
+            <a id="east" class="grid" onClick="flytoEast(event); setAreaPic(event)">E<u>AST&nbsp;&nbsp;&nbsp;&nbsp;</u></a>
+            <a id="south" class="grid" onClick="flytoSouth(event); setAreaPic(event)">S<u>OUTH&nbsp;&nbsp;&nbsp;&nbsp;</u></a>
+            <a id="west" class="grid" onClick="flytoWest(event); setAreaPic(event)">W<u>EST&nbsp;&nbsp;&nbsp;</u></a>
+          </div>
         </div>
     </div>
     <!--nav id="layers"--><!--/nav-->
