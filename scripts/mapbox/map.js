@@ -97,27 +97,12 @@ map.on('load', () => {
     const seat_out = feature.properties.outdoor
     const seat_total = seat_in + seat_out
     
-    if (industry == 'Cafes and Restaurants'){
-      new mapboxgl.Popup()
-      .setLngLat(coordinates)
-      .setHTML(('<cafe>' + venueName + '</cafe><h6><br> <b>Address: </b>' + address + 
-      '<br><b>Seating Capacity: </b>' + seat_total + '</h6>'))
-      .addTo(map)
-    }
-    else if (industry == 'Pubs, Taverns and Bars'){
-      new mapboxgl.Popup()
-      .setLngLat(coordinates)
-      .setHTML(('<ptb>' + venueName + '</ptb><h6><br> <b>Address: </b>' + address + 
-      '<br><b>Seating Capacity: </b>' + seat_total + '</h6>'))
-      .addTo(map)
-    }
-    else if (industry == 'Takeaway Food Services'){
-      new mapboxgl.Popup()
-      .setLngLat(coordinates)
-      .setHTML(('<tw>' + venueName + '</tw><h6><br> <b>Address: </b>' + address + 
-      '<br><b>Seating Capacity: </b>' + seat_total + '</h6>'))
-      .addTo(map)
-    }
+    
+    new mapboxgl.Popup()
+    .setLngLat(coordinates)
+    .setHTML(('<venue>' + venueName + '</venue>'))
+    .addTo(map)
+   
     //add effects when click on a venue
     map.flyTo({
       center: e.lngLat,
@@ -138,8 +123,7 @@ map.on('load', () => {
 
     new mapboxgl.Popup()
       .setLngLat(coordin)
-      .setHTML(('<mu>' + venueName + '</mu><h6><br> <b>Address: </b>' + m_address + 
-      '<br><b>Live Music in: </b>' + type_v + '</h6>'))
+      .setHTML(('<venue>' + venueName + '</venue>'))
       .addTo(map)
 
       map.flyTo({
