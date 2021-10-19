@@ -41,7 +41,8 @@ map.on('load', () => {
       
       });
   
-  
+      // the following code may still have some issues
+      // TODO: dealing with null values seems to be buggy
       if (musicinfo.length > 0){
   
         document.querySelector('#info').innerHTML = 
@@ -50,7 +51,6 @@ map.on('load', () => {
         <a href=${musicinfo[0].properties.website } target="_blank">
         <b>${musicinfo[0].properties.venue_name}</b>
         </a> 
-        //the following code may still have some issues
         <br> ${(musicinfo[0].properties.venue_address == "Null") ? "" : "<b>Address: </b>"} ${musicinfo[0].properties.venue_address}
         <br> ${(musicinfo[0].properties.space_type == "Null") ? "" : "<b>Live Music in: </b>"} ${musicinfo[0].properties.space_type}
         </lmu>
