@@ -13,6 +13,28 @@
   font-size: 15px;
 }
 
+/************************ Hyperlink colors ************************/
+a:link {
+  color: rgb(37, 35, 29);
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: rgb(102, 77, 68);
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: rgb(67, 102, 179);
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active {
+  color: rgb(116, 94, 146);
+  background-color: transparent;
+  text-decoration: underline;
+}
+
 h7 {
   margin: 5px;
   font-size: 0.9em;
