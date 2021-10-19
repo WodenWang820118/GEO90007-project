@@ -16,30 +16,17 @@ map.on('load', () => {
       });
   
       if (dininginfo.length > 0) {
-        if (dininginfo[0].properties.outdoor > 0) {
+       
         document.querySelector('#info').innerHTML = 
         `
         <p><span class="type">Type : ${dininginfo[0].properties.industry}</span>
         <br><b>${dininginfo[0].properties.name}</b>
         <br><b>Address:</b> ${dininginfo[0].properties.address}
         <br><b>Seating Capasity: </b> ${dininginfo[0].properties.indoor + dininginfo[0].properties.outdoor} 
-        (Including ${dininginfo[0].properties.outdoor} Outdoor Space)
+        <br> ${(dininginfo[0].properties.outdoor == 0) ? "No outdoor dining space" : "Outdoor dining space available"};
         </p>
   
         `
-        } 
-        
-        else {
-          `
-          <p><span class="type">Type : ${dininginfo[0].properties.industry}</span>
-          <br><b>${dininginfo[0].properties.name}</b>
-          <br><b>Address:</b> ${dininginfo[0].properties.address}
-          <br><b>Seating Capasity: </b> ${dininginfo[0].properties.indoor} 
-          (Indoor Space Only)
-          </p>
-    
-          `
-        }
       }
       else {
         document.querySelector('#info').innerHTML = '<p>Move your mouse to view venue details.</p>';
@@ -114,33 +101,14 @@ map.on('load', () => {
     const lat = feature.properties.latitude
     const coordinates = [lng, lat]
     const industry = feature.properties.industry
-    const address = feature.properties.address
     const venueName = feature.properties.name
-    const seat_in = feature.properties.indoor
-    const seat_out = feature.properties.outdoor
-    const seat_total = seat_in + seat_out
     
-    if (industry == 'Cafes and Restaurants'){
-      new mapboxgl.Popup()
-      .setLngLat(coordinates)
-      .setHTML(('<cafe>' + venueName + '</cafe><h6><br> <b>Address: </b>' + address + 
-      '<br><b>Seating Capacity: </b>' + seat_total + '</h6>'))
-      .addTo(map)
-    }
-    else if (industry == 'Pubs, Taverns and Bars'){
-      new mapboxgl.Popup()
-      .setLngLat(coordinates)
-      .setHTML(('<ptb>' + venueName + '</ptb><h6><br> <b>Address: </b>' + address + 
-      '<br><b>Seating Capacity: </b>' + seat_total + '</h6>'))
-      .addTo(map)
-    }
-    else if (industry == 'Takeaway Food Services'){
-      new mapboxgl.Popup()
-      .setLngLat(coordinates)
-      .setHTML(('<tw>' + venueName + '</tw><h6><br> <b>Address: </b>' + address + 
-      '<br><b>Seating Capacity: </b>' + seat_total + '</h6>'))
-      .addTo(map)
-    }
+  
+    new mapboxgl.Popup()
+    .setLngLat(coordinates)
+    .setHTML(('<venueName>' + venueName + '</venueName>'))
+    .addTo(map)
+   
     //add effects when click on a venue
     map.flyTo({
       center: e.lngLat,
@@ -161,8 +129,7 @@ map.on('load', () => {
 
     new mapboxgl.Popup()
       .setLngLat(coordin)
-      .setHTML(('<mu>' + venueName + '</mu><h6><br> <b>Address: </b>' + m_address + 
-      '<br><b>Live Music in: </b>' + type_v + '</h6>'))
+      .setHTML(('<venueName>' + venueName + '</venueName>'))
       .addTo(map)
 
       map.flyTo({
