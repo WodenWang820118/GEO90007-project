@@ -1,5 +1,7 @@
 
 const content = document.getElementById('main')
+// TODO: set the text according to the area
+// TODO: resize the image; bigger but align with the map above
 content.innerHTML +=
 `
 <div class="introduction">

@@ -2,7 +2,7 @@ const pic_list = document.getElementById('pic-list')
 
 lst = ['bourke', 'CBD_Melbourne', 'laneway_art', 'Cricket_Ground']
 lst.forEach(element => {
-  pic_list.innerHTML += `<img src="assets/central/${element}.jpg" class="img-fluid splide__slide">`
+  pic_list.innerHTML += `<img src="assets/central/${element}.jpg" class="img-fluid splide__slide" style="width:600px;">`
 });
 var splide = new Splide('.splide')
 splide.mount()
@@ -38,7 +38,7 @@ function setAreaPic(e) {
   }
 
   lst.forEach(element => {
-    pic_list.innerHTML += `<img src="assets/${area}/${element}.jpg" class="img-fluid splide__slide">`
+    pic_list.innerHTML += `<img src="assets/${area}/${element}.jpg" class="img-fluid splide__slide" style="width:600px;">`
   });
   splide.mount()
 }

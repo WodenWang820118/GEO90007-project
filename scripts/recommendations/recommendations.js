@@ -31,7 +31,7 @@ data.forEach(element => {
     <div class="container card">
       <div class="row">
         <div class="col-lg-6">
-          <img src="assets/recommendations/${name}.jpg" class="img-fluid">
+          <img src="assets/recommendations/${name}.jpg" class="img-fluid" style="width:600px;">
         </div>
         <div class="col-lg-6">
           <p> <strong>${name}</strong> </p>
