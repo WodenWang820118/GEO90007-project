@@ -23,7 +23,7 @@ map.on('load', () => {
         <br><b>${dininginfo[0].properties.name}</b>
         <br><b>Address:</b> ${dininginfo[0].properties.address}
         <br><b>Seating Capasity: </b> ${dininginfo[0].properties.indoor + dininginfo[0].properties.outdoor} 
-        <br> ${(dininginfo[0].properties.outdoor == 0) ? "No outdoor dining space" : "Outdoor dining space available"};
+        <br> ${(dininginfo[0].properties.outdoor == 0) ? "No outdoor dining space" : "Outdoor dining space available"}
         </p>
   
         `
@@ -42,7 +42,7 @@ map.on('load', () => {
       });
   
   
-      if ((musicinfo.length > 0) && (musicinfo[0].properties.space_type.length > 0) && (musicinfo[0].properties.website.length > 0) ) {
+      if (musicinfo.length > 0){
   
         document.querySelector('#info').innerHTML = 
         `
@@ -51,20 +51,9 @@ map.on('load', () => {
         <b>${musicinfo[0].properties.venue_name}</b>
         </a> 
         <br><b>Address:</b> ${musicinfo[0].properties.venue_address}
-        <br><b>Live Music in: </b> ${musicinfo[0].properties.space_type}
+        <br> ${(musicinfo[0].properties.space_type == "Null") ? " " : "Live Music in:"} ${musicinfo[0].properties.space_type}
         </lmu>
         `
-      }
-      //not solved???
-      else if ((musicinfo.length > 0) && (musicinfo[0].properties.space_type = 'Null') && (musicinfo[0].properties.website == 'Null')) {
-        document.querySelector('#info').innerHTML = 
-        `
-        <lmu><b> Live music venue :</b>  
-        <br><b>${musicinfo[0].properties.venue_name}</b>
-        <br><b>Address:</b> ${musicinfo[0].properties.venue_address}
-        </lmu>
-        `
-  
       }
       else {
         document.querySelector('#info').innerHTML = '<p>Move your mouse over a building to view details.</p>';
