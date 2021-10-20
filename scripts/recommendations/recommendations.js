@@ -39,7 +39,7 @@ function setRecommend(e) {
   let lst = []
 
   if (area == 'central') {
-    lst = ['EauDeVie', 'Maha', 'TipoOO']
+    lst = ['EauDeVie', 'Maha', 'Tipo00']
   }
   else if (area == 'east') {
     lst = ['LuneCroissant', 'RicePaperScissors', 'VueDeMonde']
@@ -51,26 +51,32 @@ function setRecommend(e) {
     lst = ['Amaru', 'attica', 'LEFTFIELD']
   }
   else if (area == 'west') {
-    lst = ['Fourth Chapter', 'Industry Beans', 'Tall Timber']
+    lst = ['fresh-chilli-thai-restaurant', 'pho-hien', 'RoxyKebabCafe']
   }
 
-  lst.forEach(pic_name => {
-    recommendations.innerHTML+=
-    `
-      <div class="container card">
-        <div class="row">
-          <div class="col-lg-6">
-            <img src="assets/recommendations/${area}/${pic_name}.jpg" class="img-fluid" style="width:600px;">
-          </div>
-          <div class="col-lg-6 information">
-            <p> <strong>Industry Beans</strong> </p>
-            <p> <strong>Location:</strong> 3/62 Rose St. Fitzroy</p>
-            <p> <strong>Dietary Options:</strong> Vegetarian-Friendly Gluten Free Options, Vegan Options</p>
+  surburb_recommendations.forEach(element => {
+    let pic_name = element.info.image
+    if (lst.includes(pic_name)) {
+      let bussiness_name = element.info.name
+      let location = element.info.location
+      let features = element.info.features
+      recommendations.innerHTML+=
+      `
+        <div class="container card">
+          <div class="row">
+            <div class="col-lg-6">
+              <img src="assets/recommendations/${area}/${pic_name}.jpg" class="img-fluid" style="width:600px;">
+            </div>
+            <div class="col-lg-6 information">
+              <p> <strong>${bussiness_name}</strong> </p>
+              <p> <strong>Location:</strong> ${location}</p>
+              <p> <strong>Features:</strong> ${features}</p>
+            </div>
           </div>
         </div>
-      </div>
-      </br>
-    `
+        </br>
+      `
+    }
   })
   loadRecommendCSS()
 }
