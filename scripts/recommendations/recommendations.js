@@ -72,13 +72,13 @@ function setRecommend(e) {
       </br>
     `
   })
-  loadCSS()
+  loadRecommendCSS()
 }
 
 /**
  * The function to reload the CSS dynamically
  */
-function loadCSS() {
+function loadRecommendCSS() {
   // load up external CSS file
   var link = document.createElement('link');
 
@@ -92,4 +92,4 @@ function loadCSS() {
   document.getElementById("recommendations").appendChild(link);
 }
 
-loadCSS()
+loadRecommendCSS()
