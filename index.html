@@ -73,11 +73,25 @@
         <div class="control-block">
           <div id="buttons">
             <!-- send the event back to the functions -->
-            <a id="central" class="grid" onClick="flytoCentral(event); setAreaPic(event)">C<u>ENTER&nbsp;</u></a>
-            <a id="north" class="grid" onClick="flytoNorth(event); setAreaPic(event)">N<u>ORTH&nbsp;&nbsp;&nbsp;</u></a>
-            <a id="east" class="grid" onClick="flytoEast(event); setAreaPic(event)">E<u>AST&nbsp;&nbsp;&nbsp;&nbsp;</u></a>
-            <a id="south" class="grid" onClick="flytoSouth(event); setAreaPic(event)">S<u>OUTH&nbsp;&nbsp;&nbsp;&nbsp;</u></a>
-            <a id="west" class="grid" onClick="flytoWest(event); setAreaPic(event)">W<u>EST&nbsp;&nbsp;&nbsp;</u></a>
+            <a id="central"
+               class="grid"
+               onClick="flytoCentral(event); setAreaPic(event); setRecommend(event)">
+               C<u>ENTER&nbsp;</u></a>
+            <a id="north"
+               class="grid"
+               onClick="flytoNorth(event); setAreaPic(event); setRecommend(event)">
+               N<u>ORTH&nbsp;&nbsp;&nbsp;</u></a>
+            <a id="east"
+               class="grid" onClick="flytoEast(event); setAreaPic(event); setRecommend(event)">
+               E<u>AST&nbsp;&nbsp;&nbsp;&nbsp;</u></a>
+            <a id="south"
+               class="grid"
+               onClick="flytoSouth(event); setAreaPic(event); setRecommend(event)">
+               S<u>OUTH&nbsp;&nbsp;&nbsp;&nbsp;</u></a>
+            <a id="west"
+               class="grid"
+               onClick="flytoWest(event); setAreaPic(event); setRecommend(event)">
+               W<u>EST&nbsp;&nbsp;&nbsp;</u></a>
           </div>
         </div>
     </div>
@@ -115,6 +129,8 @@
       <h1>Highly Recommended</h1>
     </div>
     <div id="recommendations"></div>
+    <!-- separate the data and the data manipulation -->
+    <script src="scripts/recommendations/data-recommendation.js"></script>
     <script src="scripts/recommendations/recommendations.js"></script>
   </div>
   
@@ -144,7 +160,7 @@
           <!-- input area; not functional -->
           <div>
             <input type="text">
-            <i class="fas fa-arrow-square-right fa-2x" style="vertical-align: middle;"></i>
+            <i class="fas fa-arrow-square-right fa-2x" style="vertical-align: middle; color:#706A6A"></i>
           </div>
         </div>
       </div>
