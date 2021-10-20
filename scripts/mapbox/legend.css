@@ -75,13 +75,24 @@ h2 {
   text-align:calc();
   font-family: 'Arial', sans-serif;
   font-size: 0.97em;
+  background: transparent;
+  
+}
+
+.mapboxgl-popup-close-button {
+  position: absolute;
+  right: 0;
+  top: 0;
+  border: 0;
+  border-radius: 0 3px 0 0;
+  display:none;
+  background-color: transparent;
 }
 
 .mapboxgl-popup-content venue {
   text-align: center;
   background: rgba(196, 196, 196, 0.9);
-  color: #FFFAFA;
-  border: 1px solid #000000;
+  color: #8D8B8B;
   padding: 10px;
   display: block;
   font-weight: bold;
@@ -91,6 +102,7 @@ h2 {
   line-height: 1.15em;
   box-sizing: border-box;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  
 }
 
 
@@ -115,7 +127,7 @@ h2 {
   right: 5%;
   font-family: 'Bellota';
   font-size: 15px;
-  font-weight: normal;
+  font-weight: 1000;
   font-stretch: normal;
   font-style: normal;
   line-height: 3;
@@ -136,7 +148,7 @@ h2 {
   height: 47px;
   flex-grow: 0;
   text-align: center;
-  color: #fffcfc;
+  color: #8D8B8B;
   text-decoration: none;
   text-underline-offset: 3px;
 }
@@ -151,7 +163,7 @@ h2 {
   height: 47px;
   flex-grow: 0;
   text-align: center;
-  color: #fffcfc;
+  color: #8D8B8B;
   text-decoration: none;
   text-underline-offset: 3px;
 }
@@ -166,7 +178,7 @@ h2 {
   height: 47px;
   flex-grow: 0;
   text-align: center;
-  color: #fffcfc;
+  color: #8D8B8B;
   text-decoration: none;
   text-underline-offset: 3px;
 }
@@ -181,7 +193,7 @@ h2 {
   height: 47px;
   flex-grow: 0;
   text-align: center;
-  color: #fffcfc;
+  color: #8D8B8B;
   text-decoration: none;
   text-underline-offset: 3px;
 }
@@ -196,9 +208,10 @@ h2 {
   height: 47px;
   flex-grow: 0;
   text-align: center;
-  color: #fffcfc;
+  color: #8D8B8B;
   text-decoration: none;
   text-underline-offset: 3px;
+  
 }
 
 
