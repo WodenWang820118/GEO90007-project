@@ -15,7 +15,7 @@ data.forEach(element => {
         <div class="col-lg-6">
           <img src="assets/recommendations/${name}.jpg" class="img-fluid" style="width:600px;">
         </div>
-        <div class="col-lg-6">
+        <div class="col-lg-6 information">
           <p> <strong>${name}</strong> </p>
           <p> <strong>Location:</strong> ${location}</p>
           <p> <strong>Dietary Options:</strong> ${dietary}</p>
@@ -62,7 +62,7 @@ function setRecommend(e) {
           <div class="col-lg-6">
             <img src="assets/recommendations/${area}/${pic_name}.jpg" class="img-fluid" style="width:600px;">
           </div>
-          <div class="col-lg-6">
+          <div class="col-lg-6 information">
             <p> <strong>Industry Beans</strong> </p>
             <p> <strong>Location:</strong> 3/62 Rose St. Fitzroy</p>
             <p> <strong>Dietary Options:</strong> Vegetarian-Friendly Gluten Free Options, Vegan Options</p>

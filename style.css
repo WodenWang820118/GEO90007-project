@@ -2,6 +2,11 @@
   or the style doesn't belong any component
 */
 
+body {
+  font-family: 'Roboto Slab', sans-serif;
+  background: #F4E8E7;
+}
+
 .slogan {
   padding-left:7%;
   padding-top: 5%;
@@ -37,4 +42,35 @@ footer {
   align-items: center;
   padding-top: 20px;
   text-align: left;
+}
+
+.subscribe:hover {
+  cursor: pointer;
+}
+
+@media only screen and (max-width: 600px) {
+  .slogan {
+    padding-left:7%;
+    padding-top: 5%;
+    font-family: 'Bellota';
+    font-size: 20px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: 7px;
+    text-align: left;
+    color: #6a6161;
+    margin-bottom: 20px;
+  }
+  
+  #main-pic {
+    padding: 0 5%;
+  }
+
+  footer {
+    padding-left: 5% !important;
+    height: 700px !important;
+    margin: 0 !important;
+  }
 }

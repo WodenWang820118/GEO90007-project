@@ -18,3 +18,16 @@ var data = [
     "dietary Options": "Vegan Options"
   },
 ]
+
+var surburb = [
+  {
+    "suburb": "CBD",
+    "image": "EauDeVie",
+    "name": "Eau_De_Vie",
+    "location" : "1 Malthouse Ln, Melbourne VIC 3000, Australia",
+    "features": "Bar food, Wonderland of whiskey and cocktail, Jazz music, Great vibe"
+  },
+  {
+
+  }
+]

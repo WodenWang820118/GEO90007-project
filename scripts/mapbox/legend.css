@@ -212,3 +212,27 @@ h2 {
   bottom: 0;
   left: 300px;
 }
+
+@media only screen and (max-width: 600px) {
+
+  .control-block {
+    position: relative;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 440px;
+  }
+
+  #north, #central, #south {
+    right: 180px;
+  }
+
+  #west {
+    left: 40px;
+  }
+  
+  #east {
+    right: 30px;
+  }
+}

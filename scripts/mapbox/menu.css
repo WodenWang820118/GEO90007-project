@@ -66,3 +66,17 @@
 a.mapboxgl-ctrl-logo {
   display: none;
 }
+
+@media only screen and (max-width: 600px) {
+
+  #menu {
+    background: #fff;
+    position: absolute;
+    z-index: 1;
+    bottom: 213px;
+    left: 5%;
+    width: 269px;
+    border: 1px solid rgba(0, 0, 0, 0.4);
+    font-family: 'Bellota';
+  }
+}
