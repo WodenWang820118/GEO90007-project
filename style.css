@@ -23,6 +23,7 @@ body {
 }
 
 footer {
+  display: inline-block;
   font-family: Bellota;
   font-size: 20px;
   font-weight: bold;
@@ -48,6 +49,10 @@ footer {
   cursor: pointer;
 }
 
+img {
+  opacity: 80%;
+}
+
 @media only screen and (max-width: 600px) {
   .slogan {
     padding-left:7%;
@@ -68,9 +73,8 @@ footer {
     padding: 0 5%;
   }
 
-  footer {
+  /* footer {
     padding-left: 5% !important;
-    height: 700px !important;
     margin: 0 !important;
-  }
+  } */
 }
