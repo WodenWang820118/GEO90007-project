@@ -9,7 +9,7 @@ header.innerHTML +=
       <p>You have known nothing though</p>
       <p>Find the truth by your own</p>
       <p>through the finger type what you thought<p>
-      <p>and thus you will find the soul.</p>
+      <p>and thus you will see the soul.</p>
     </div>
   </div>
 </div>
