@@ -64,7 +64,7 @@ function setText(e) {
     content.innerHTML +=
     `
     <div class="introduction">
-      <p class="intorduction-header">East Melbourne</p>
+      <p class="intorduction-header">South Melbourne</p>
       <p>
       South Melbourne is served by tram routes 1, 12, 58, and 96. Route 96 runs along the former St Kilda railway line, which was converted to light rail in 1987.
       In 2006 there were strong calls by a joint council project and the Inner Melbourne Action Group to provide an inner south tram link between the City of Port Phillip and the City of Stonnington, by connecting route 112 with route 8 via Park Street. This would have required less than 100 metres of track to be laid along the Park Street gap to create the new route.
