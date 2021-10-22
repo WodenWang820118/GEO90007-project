@@ -3,7 +3,7 @@
   background: #fff;
   position: absolute;
   z-index: 1;
-  bottom: 0px;
+  bottom: 0%;
   left: 5%;
   width: 269px;
   border: 1px solid rgba(0, 0, 0, 0.4);
@@ -67,13 +67,19 @@ a.mapboxgl-ctrl-logo {
   display: none;
 }
 
+@media only screen and (max-width: 1600px) {
+  #menu {
+    bottom: 26%;
+  }
+}
+
 @media only screen and (max-width: 800px) {
 
   #menu {
     background: #fff;
     position: absolute;
     z-index: 1;
-    bottom: 213px;
+    bottom: 35% !important;
     font-size: 16px;
     left: 5%;
     width: 30%;

@@ -1,7 +1,7 @@
 /************************ top-left hover area ************************/
 #hover {
   position: absolute;
-  width: 50%;
+  width: 30%;
   height: 210px;
   background-color: rgba(196, 196, 196, 0.9);
   top: 0px;
@@ -105,7 +105,6 @@ h2 {
   
 }
 
-
 .mapboxgl-popup-content h6 {
   margin: 0;
   padding: 10px;
@@ -142,8 +141,8 @@ h2 {
 #north {
   position: absolute;
   padding-left: 5px;
-  top:20px;
-  right: 113px;
+  top:5%;
+  right: 38%;
   border: solid 2px #f4e8e7;
   width: 83px;
   height: 47px;
@@ -157,8 +156,8 @@ h2 {
 #central {
   position: absolute;
   padding-left: 5px;
-  top:75px;
-  right: 113px;
+  top: 35%;
+  right: 38%;
   border: solid 2px #f4e8e7;
   width: 83px;
   height: 47px;
@@ -172,8 +171,8 @@ h2 {
 #south {
   position: absolute;
   padding-left: 5px;
-  top:130px;
-  right: 113px;
+  top: 65%;
+  right: 38%;
   border: solid 2px #f4e8e7;
   width: 83px;
   height: 47px;
@@ -187,8 +186,8 @@ h2 {
 #east {
   position: absolute;
   padding-left: 15px;
-  top:75px;
-  right: 15px;
+  top: 35%;
+  right: 10%;
   border: solid 2px #f4e8e7;
   width: 83px;
   height: 47px;
@@ -202,8 +201,8 @@ h2 {
 #west {
   position: absolute;
   padding-left: 15px;
-  top:75px;
-  left: 15px;
+  top: 35%;
+  left: 10%;
   border: solid 2px #f4e8e7;
   width: 83px;
   height: 47px;
@@ -227,12 +226,34 @@ h2 {
   left: 300px;
 }
 
+@media only screen and (max-width: 1600px) {
+  .control-block {
+    width: 28%;
+  }
+
+  #menu {
+    bottom: 0;
+  }
+}
+
+@media only screen and (max-width: 1200px) {
+  .control-block {
+    width: 35%;
+  }
+}
+
+@media only screen and (max-width: 1000px) {
+  .control-block {
+    width: 40%;
+  }
+}
+
 @media only screen and (max-width: 800px) {
 
   #hover {
     width: 90%;
-    height: 27%;
-    font-size: 16px;
+    height: 30%;
+    font-size: 14px;
     padding: 0 1%;
   }
 
@@ -246,7 +267,7 @@ h2 {
   }
 
   #north, #central, #south {
-    left: 37%;
+    align-items: center;
   }
 
   #west {
