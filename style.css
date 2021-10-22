@@ -73,8 +73,7 @@ img {
     padding: 0 5%;
   }
 
-  /* footer {
-    padding-left: 5% !important;
-    margin: 0 !important;
-  } */
+  #info {
+    width: 100%;
+  }
 }
