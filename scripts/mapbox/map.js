@@ -41,8 +41,6 @@ map.on('load', () => {
       
       });
   
-      // the following code may still have some issues
-      // TODO: dealing with null values seems to be buggy
       if (musicinfo.length > 0){
   
         document.querySelector('#info').innerHTML = 
@@ -52,7 +50,7 @@ map.on('load', () => {
         <b>${musicinfo[0].properties.venue_name}</b>
         </a> 
         <br> ${(musicinfo[0].properties.venue_address == "Null") ? "" : "<b>Address: </b><p id='vadd'></p>"} 
-        <br> ${(musicinfo[0].properties.space_type == "Null") ? "" : "<b>Live Music in: </b><p id='typev'></p>"} 
+        ${(musicinfo[0].properties.space_type == "Null") ? "" : "<b>Live Music in: </b><p id='typev'></p>"} 
         </lmu>
         `
         var x=musicinfo[0].properties.venue_address;
