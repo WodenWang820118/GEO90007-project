@@ -74,10 +74,15 @@ a.mapboxgl-ctrl-logo {
     position: absolute;
     z-index: 1;
     bottom: 213px;
+    font-size: 16px;
     left: 5%;
-    width: 40%;
+    width: 30%;
     border: 1px solid rgba(0, 0, 0, 0.4);
     font-family: 'Bellota';
+  }
+
+  #menu a {
+    font-size: 13px;
   }
 
   #map {
