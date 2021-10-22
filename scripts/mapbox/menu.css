@@ -79,4 +79,8 @@ a.mapboxgl-ctrl-logo {
     border: 1px solid rgba(0, 0, 0, 0.4);
     font-family: 'Bellota';
   }
+
+  #map {
+    height: 400px !important;
+  }
 }

@@ -25,9 +25,6 @@ function setText(e) {
         Almost all the major theatres in Melbourne are located in the CBD or its fringes. Historic theatres including the Princess Theatre, Regent Theatre, Forum Theatre, Comedy Theatre, Athenaeum Theatre, Her Majesty's Theatre, and the Capitol Theatre are all located within the Hoddle Grid. The Arts Centre Melbourne (which includes the State Theatre, Hamer Hall, the Playhouse and the Fairfax Studio), and the Melbourne Recital Centre are located just to the south of the CBD, with the Sidney Myer Music Bowl in parklands to the east.
         The Federation Square arts complex occupies a prime site on the corner of Flinders and Swanston Streets, and includes the Australian Centre for the Moving Image, the Australian art galleries of the National Gallery of Victoria, the Koorie Heritage Trust, and the Deakin Edge auditorium.
       </p>
-      <p>
-        The CBD is home to many small independent galleries, often in the upper floors of older buildings or down laneways, and some of the most commercial galleries in Victoria are also in 'the city'.
-      </p>
     </div>
     `
   }
