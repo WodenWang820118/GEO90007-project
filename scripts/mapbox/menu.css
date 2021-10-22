@@ -67,7 +67,7 @@ a.mapboxgl-ctrl-logo {
   display: none;
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 800px) {
 
   #menu {
     background: #fff;
