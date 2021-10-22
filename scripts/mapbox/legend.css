@@ -1,7 +1,7 @@
 /************************ top-left hover area ************************/
 #hover {
   position: absolute;
-  width: 357px;
+  width: 50%;
   height: 210px;
   background-color: rgba(196, 196, 196, 0.9);
   top: 0px;
@@ -121,7 +121,7 @@ h2 {
   right: 0px;
   bottom: 0px;
   background-color: rgba(196, 196, 196, 0.9);
-  width: 310px;
+  width: 20%;
   height: 193px;
   z-index: 100;
   right: 5%;
