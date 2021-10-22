@@ -267,15 +267,15 @@ h2 {
   }
 
   #north, #central, #south {
-    align-items: center;
+    right: 36%;
   }
 
   #west {
-    left: 10%;
+    left: 7%;
   }
   
   #east {
-    right: 10%;
+    right: 7%;
   }
 
   .mapboxgl-ctrl,
