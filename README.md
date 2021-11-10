@@ -33,5 +33,5 @@ The data is stored in JSON format in the javascript file.
 - TuoHuang Li - front-end developer
 - Yu-Hsin Tseng - designer
 
-# The website
-https://geo90007-tourism.netlify.app/
+# The GitHub page
+https://wodenwang820118.github.io/GEO90007-project/
