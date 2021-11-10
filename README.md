@@ -26,9 +26,13 @@ The data is stored in JSON format in the javascript file.
 2. Zeplin - design and front-end development collaboration
 3. Notion - project management
 4. Juptyer notebook - data analysis and pre-processing
+5. Netlify - deployment
 
 # Attribution (alphabetically)
 - Guan Xin Wang
 - TianHua Lu
 - TuoHuang Li
 - Yu-Hsin Tseng
+
+# The website
+https://geo90007-tourism.netlify.app/
