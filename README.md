@@ -29,10 +29,10 @@ The data is stored in JSON format in the javascript file.
 5. Netlify - deployment
 
 # Attribution (alphabetically)
-- Guan Xin Wang
-- TianHua Lu
-- TuoHuang Li
-- Yu-Hsin Tseng
+- GuanXin Wang - front-end developer
+- TianHua Lu - data analyst
+- TuoHuang Li - front-end developer
+- Yu-Hsin Tseng - designer
 
 # The website
 https://geo90007-tourism.netlify.app/
