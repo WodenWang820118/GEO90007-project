@@ -25,6 +25,7 @@ The data is stored in JSON format in the javascript file.
 1. Figma - UI/UX design
 2. Zeplin - design and front-end development collaboration
 3. Notion - project management
+4. Juptyer notebook - data analysis and pre-processing
 
 # Attribution (alphabetically)
 Guan Xin Wang
