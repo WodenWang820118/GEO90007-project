@@ -28,7 +28,7 @@ The data is stored in JSON format in the javascript file.
 4. Juptyer notebook - data analysis and pre-processing
 
 # Attribution (alphabetically)
-Guan Xin Wang
-TianHua Lu
-TuoHuang Li
-Yu-Hsin Tseng
+- Guan Xin Wang
+- TianHua Lu
+- TuoHuang Li
+- Yu-Hsin Tseng
