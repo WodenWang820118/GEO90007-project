@@ -1,8 +1,13 @@
+/**
+ * The file is used to set the main picture of the page.
+ * The defualt images are from the central area.
+ */
+
 const pic_list = document.getElementById('pic-list')
 
 lst = ['bourke', 'CBD_Melbourne', 'laneway_art', 'Cricket_Ground']
 lst.forEach(element => {
-  pic_list.innerHTML += `<img src="assets/central/${element}.jpg" class="img-fluid splide__slide" style="width:600px;">`
+  pic_list.innerHTML += `<img src="assets/central/${ element }.jpg" class="img-fluid splide__slide" style="width:600px;">`
 });
 var splide = new Splide('.splide')
 splide.mount()
@@ -21,6 +26,8 @@ function setAreaPic(e) {
   splide.destroy()
   let area = e.currentTarget.id
   let lst = []
+  
+  // manaually set the images for each area according to the image name
   if (area == 'central') {
     lst = ['bourke', 'CBD_Melbourne', 'laneway_art', 'Cricket_Ground']
   }
@@ -37,8 +44,21 @@ function setAreaPic(e) {
     lst = ['west_mel', "St_Mary's_Star_of_the_Sea", 'West-Melbourne-Primary-School-now']
   }
 
+  // append the images to the page with slider
   lst.forEach(element => {
-    pic_list.innerHTML += `<img src="assets/${area}/${element}.jpg" class="img-fluid splide__slide" style="width:600px;">`
+    pic_list.innerHTML += `<img src="assets/${ area }/${ element }.jpg" class="img-fluid splide__slide">`
   });
   splide.mount()
 }
+
+// load up external CSS file
+var link = document.createElement('link');
+
+// set properties of link tag
+// the CSS path must be the relative path of the root directory
+link.href = 'scripts/content/main.css';
+link.rel = 'stylesheet';
+link.type = 'text/css';
+
+// append link element to html
+document.getElementById("pic-list").appendChild(link);

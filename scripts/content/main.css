@@ -17,6 +17,15 @@
   text-align: left;
   color: #141414;
 }
+#main-pic {
+  padding: 0;
+  border-radius: 5px;
+  box-shadow: 12px 12px 7px rgba(0, 0, 0, 0.3);
+}
+
+#pic-list img {
+  border-radius: 5px;
+}
 
 @media only screen and (max-width: 800px) {
   .introduction {

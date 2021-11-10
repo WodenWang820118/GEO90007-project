@@ -11,6 +11,7 @@
   padding-top: 10px;
   font-family: 'Bellota';
   font-size: 15px;
+  border-bottom-right-radius: 5px;
 }
 
 /************************ Hyperlink colors ************************/
@@ -131,11 +132,16 @@ h2 {
   font-style: normal;
   line-height: 3;
   letter-spacing: 1px;
+  border-top-left-radius: 5px;
 }
 
 .control-block a:hover {
   cursor: pointer;
   background-color:  rgba(255, 252, 252, 0.4);
+}
+
+.grid {
+  border-radius: 5px;
 }
 
 #north {

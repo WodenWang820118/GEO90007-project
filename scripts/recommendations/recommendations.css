@@ -26,6 +26,11 @@
   color: #3f3a3a;
 }
 
+#recommendations img {
+  border-radius: 5px;
+  box-shadow: 12px 12px 7px rgba(0, 0, 0, 0.3);
+}
+
 @media only screen and (max-width: 800px) {
   .card {
     border: none;
